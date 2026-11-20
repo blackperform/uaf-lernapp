@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 170" width="320" height="170" role="img">
+ <rect width="320" height="170" fill="#ffffff"/>
+ <defs>
+  <g id="fk"><g fill="none" stroke="#000" stroke-width="3"><path d="M0 -20 L20 0 L0 20 L-20 0 Z"/><path d="M0 -20 V20 M-20 0 H20"/></g><path d="M0 -20 L7 -13 H-7 Z" fill="#000"/><text x="16" y="22" font-family="Georgia, serif" font-size="10">DRK</text></g>
+ </defs>
+ <g transform="translate(160 42)"><use href="#fk"/><g fill="#000"><circle cx="-8" cy="-28" r="3.5"/><circle cx="0" cy="-28" r="3.5"/><circle cx="8" cy="-28" r="3.5"/></g></g>
+ <g transform="translate(40 132)"><use href="#fk"/><g fill="#000"><circle cx="-4" cy="-28" r="3.5"/><circle cx="4" cy="-28" r="3.5"/></g></g>
+ <g transform="translate(280 132)"><use href="#fk"/><g fill="#000"><circle cx="-4" cy="-28" r="3.5"/><circle cx="4" cy="-28" r="3.5"/></g></g>
+</svg>

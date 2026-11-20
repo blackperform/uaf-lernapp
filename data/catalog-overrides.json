@@ -1,0 +1,263 @@
+{
+  "_hinweis": "Fachliche Ergänzungen zum Markdown-Katalog. Keine neuen Prüfungslösungen – nur Lernziel-Zuordnung, Prüfstatus und Hinweise.",
+  "q1": {
+    "learningObjective": "lo-befehlsschema"
+  },
+  "q1005": {
+    "learningObjective": "lo-befehlsschema"
+  },
+  "q17": {
+    "learningObjective": "lo-staerkeschreibweise"
+  },
+  "q55": {
+    "learningObjective": "lo-staerkeschreibweise"
+  },
+  "q29": {
+    "learningObjective": "lo-fahrzeugregistrierung"
+  },
+  "q37": {
+    "learningObjective": "lo-fahrzeugregistrierung"
+  },
+  "q58": {
+    "learningObjective": "lo-abcde"
+  },
+  "q60": {
+    "grading": {
+      "mode": "groups",
+      "required": 1,
+      "groups": [
+        {
+          "label": "Treat first what kills first / zuerst das Lebensbedrohlichste behandeln",
+          "accept": [
+            "treat first",
+            "kills first",
+            "zuerst",
+            "lebensbedrohlich",
+            "toetet"
+          ]
+        }
+      ]
+    }
+  },
+  "q50": {
+    "verificationNote": "Zuordnung der Größenzeichen (Punkte/Striche) ist im Katalog unscharf formuliert; DV 102 kennt weitere Größenordnungen – vollständig gegen DV 102 prüfen"
+  },
+  "q56": {
+    "learningObjective": "lo-taktische-zeit"
+  },
+  "q1019": {
+    "learningObjective": "lo-taktische-zeit"
+  },
+  "q1029": {
+    "learningObjective": "lo-taktische-zeit"
+  },
+  "q1047": {
+    "learningObjective": "lo-sign-massnahme"
+  },
+  "q11": {
+    "grading": {
+      "mode": "groups",
+      "required": 5,
+      "groups": [
+        {
+          "label": "Zeitpunkt",
+          "accept": [
+            "uhr",
+            "zeit",
+            "datum"
+          ]
+        },
+        {
+          "label": "Genauer Ort",
+          "accept": [
+            "strasse",
+            "ort",
+            "hoehe",
+            "kreuzung",
+            "kreuz",
+            "autobahn",
+            "bundesstrasse",
+            "ortsausgang",
+            "ortseingang",
+            "km"
+          ]
+        },
+        {
+          "label": "Ereignis",
+          "accept": [
+            "unfall",
+            "zusammenstoss",
+            "kollision"
+          ]
+        },
+        {
+          "label": "Aktuelle Lage",
+          "accept": [
+            "lage",
+            "eingeklemmt",
+            "brand",
+            "auslauf",
+            "pkw",
+            "lkw",
+            "fahrzeug"
+          ]
+        },
+        {
+          "label": "Zahl der Betroffenen",
+          "accept": [
+            "3",
+            "drei"
+          ]
+        },
+        {
+          "label": "Laufende Maßnahmen",
+          "accept": [
+            "versorg",
+            "abgesichert",
+            "absicher",
+            "eingeleitet",
+            "nachgefordert",
+            "angefordert",
+            "massnahme"
+          ]
+        },
+        {
+          "label": "Absender",
+          "accept": [
+            "meldet",
+            "absender",
+            "ende",
+            "hier"
+          ]
+        }
+      ]
+    },
+    "explanation": "Fallaufgabe: Das System prüft, ob die sieben Elemente des Meldeschemas erkennbar enthalten sind (mindestens 5)."
+  },
+  "q9": {
+    "grading": {
+      "mode": "groups",
+      "required": 6,
+      "groups": [
+        {
+          "label": "Wann eingetreten?",
+          "accept": [
+            "wann",
+            "eingetreten",
+            "zeitpunkt"
+          ]
+        },
+        {
+          "label": "Wo ist das Ereignis?",
+          "accept": [
+            "wo",
+            "ereignisort",
+            "ort"
+          ]
+        },
+        {
+          "label": "Was ist geschehen?",
+          "accept": [
+            "was",
+            "geschehen",
+            "ereignis",
+            "passiert"
+          ]
+        },
+        {
+          "label": "Wie ist die Lage?",
+          "accept": [
+            "wie",
+            "lage"
+          ]
+        },
+        {
+          "label": "Wie viele Betroffene?",
+          "accept": [
+            "betroffene",
+            "verletzte",
+            "wie viele",
+            "wieviele",
+            "anzahl"
+          ]
+        },
+        {
+          "label": "Was wird getan?",
+          "accept": [
+            "getan",
+            "massnahmen",
+            "wird gemacht"
+          ]
+        },
+        {
+          "label": "Wer meldet?",
+          "accept": [
+            "wer meldet",
+            "meldet",
+            "absender",
+            "meldender"
+          ]
+        }
+      ]
+    }
+  },
+  "q10": {
+    "grading": {
+      "mode": "groups",
+      "required": 2,
+      "groups": [
+        {
+          "label": "So häufig wie nötig",
+          "accept": [
+            "haeufig",
+            "oft wie noetig",
+            "so oft"
+          ]
+        },
+        {
+          "label": "So knapp wie möglich",
+          "accept": [
+            "knapp",
+            "kurz"
+          ]
+        }
+      ]
+    }
+  },
+  "q42": {
+    "grading": {
+      "mode": "groups",
+      "required": 2,
+      "groups": [
+        {
+          "label": "Zweitanschlag / zweiter Anschlag",
+          "accept": [
+            "zweitanschlag",
+            "zweiter anschlag",
+            "zweiten anschlag",
+            "anschlag",
+            "attentat"
+          ]
+        },
+        {
+          "label": "am/nahe dem ersten Ereignisort",
+          "accept": [
+            "ereignisort",
+            "einsatzort",
+            "einsatzstelle",
+            "gleichen ort",
+            "selben ort"
+          ]
+        },
+        {
+          "label": "gezielt auf die dort konzentrierten Einsatzkräfte",
+          "accept": [
+            "einsatzkraefte",
+            "rettungskraefte",
+            "helfer"
+          ]
+        }
+      ]
+    }
+  }
+}

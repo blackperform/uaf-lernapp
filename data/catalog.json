@@ -1,0 +1,4883 @@
+{
+  "format": "uaf-catalog",
+  "schemaVersion": 1,
+  "catalogVersion": "md-10c5e521",
+  "source": "data/source/Fragenkatalog.md",
+  "idAliases": {},
+  "questions": [
+    {
+      "id": "q44",
+      "number": 44,
+      "topic": "Abkürzungen",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q44",
+      "type": "open",
+      "question": "Wofür stehen BHP, BTP, EA und EAL?",
+      "modelAnswer": "Behandlungsplatz, Betreuungsplatz, Einsatzabschnitt, Einsatzabschnittsleitung.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "topic": "Abkürzungen",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q45",
+      "type": "open",
+      "question": "Wofür stehen LNA und OrgL?",
+      "modelAnswer": "Leitender Notarzt und Organisatorischer Leiter.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "topic": "Abkürzungen",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q46",
+      "type": "open",
+      "question": "Wofür stehen UAL, UFü, VFü und ZFü?",
+      "modelAnswer": "Unterabschnittsleitung, Unterführer, Verbandsführer und Zugführer.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "topic": "Bereitstellungsraum",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q14",
+      "type": "open",
+      "question": "Nenne Kriterien für einen geeigneten Bereitstellungsraum.",
+      "modelAnswer": "Gute Verkehrsanbindung, ausreichende Fläche, frei von Gefahren, getrennte befestigte Zu- und Abfahrt, Telekommunikation, Räume/Witterungsschutz, Versorgung und Sanitäranlagen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "topic": "Bereitstellungsraum",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q15",
+      "type": "open",
+      "question": "Welche Personal- und Führungsfunktionen braucht ein Bereitstellungsraum?",
+      "modelAnswer": "Kennzeichnung/Ausschilderung, Lotsenkräfte, Führungsstelle, Meldekopf und Telekommunikationsverbindungen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "topic": "Bereitstellungsraum",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q16",
+      "type": "open",
+      "question": "Nenne Aufgaben des Leiters Bereitstellungsraum.",
+      "modelAnswer": "Unterstellte Kräfte führen, Dienstbetrieb und Parkplatz regeln, Kräfte erfassen/einweisen, Versorgung/Unterkunft/medizinische Versorgung/Bewachung regeln, Meldungen absetzen, Marschbefehle umsetzen und dokumentieren.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "topic": "Besondere Einsatzlagen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q41",
+      "type": "open",
+      "question": "Welche Grundsätze gelten bei lebensbedrohlichen Einsatzlagen?",
+      "modelAnswer": "Frühe Lageinformation, enger Austausch mit Polizei, Polizeivorgaben beachten, Eigenschutz, erst nach Befehl absitzen, Rettung nach Abstimmung/Freigabe, dynamische Lage beachten und Nachsorge organisieren.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "topic": "Besondere Einsatzlagen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q42",
+      "type": "open",
+      "question": "Was ist ein Second Hit?",
+      "modelAnswer": "Ein Zweitanschlag am oder nahe dem ersten Ereignisort, nachdem sich dort Einsatzkräfte konzentriert haben.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "grading": {
+        "mode": "groups",
+        "required": 2,
+        "groups": [
+          {
+            "label": "Zweitanschlag / zweiter Anschlag",
+            "accept": [
+              "zweitanschlag",
+              "zweiter anschlag",
+              "zweiten anschlag",
+              "anschlag",
+              "attentat"
+            ]
+          },
+          {
+            "label": "am/nahe dem ersten Ereignisort",
+            "accept": [
+              "ereignisort",
+              "einsatzort",
+              "einsatzstelle",
+              "gleichen ort",
+              "selben ort"
+            ]
+          },
+          {
+            "label": "gezielt auf die dort konzentrierten Einsatzkräfte",
+            "accept": [
+              "einsatzkraefte",
+              "rettungskraefte",
+              "helfer"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "topic": "Besondere Einsatzlagen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q43",
+      "type": "open",
+      "question": "Wie werden taktische Bereiche bei einer lebensbedrohlichen Einsatzlage vereinfacht unterschieden?",
+      "modelAnswer": "Rot: unsicher/akute Gefahr; Gelb: teilsicher; Grün: sicherer Bereich mit normalem Einsatzrisiko. Bereiche sind dynamisch und polizeiliche Festlegungen maßgeblich.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q1",
+      "number": 1,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-befehlsschema",
+      "type": "open",
+      "question": "Nenne die fünf Hauptbestandteile des Befehlsschemas.",
+      "modelAnswer": "Lage; Auftrag; Durchführung; Versorgung; Führung und Verbindung.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q2",
+      "type": "open",
+      "question": "Was gehört zur allgemeinen Lage?",
+      "modelAnswer": "Ereignis, Art, Ort, Umfang, Wirkung, Witterung und Gefahren.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q3",
+      "type": "open",
+      "question": "Was gehört zur eigenen Lage?",
+      "modelAnswer": "Einsatzkräfte, Einsatzmittel und Unterstellung.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q4",
+      "type": "open",
+      "question": "Was gehört zum Punkt Durchführung?",
+      "modelAnswer": "Absicht, Einzelaufträge, Einsatzabschnitte, Zusammenarbeit, Zeitvorgaben und Schutzmaßnahmen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q5",
+      "type": "open",
+      "question": "Was gehört zum Punkt Versorgung?",
+      "modelAnswer": "Verpflegung, Betriebsstoffe, Materialerhaltung, medizinische Versorgung und Logistik.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q6",
+      "type": "open",
+      "question": "Was gehört zu Führung und Verbindung?",
+      "modelAnswer": "Verbindungen, Meldeköpfe, Befehlsstellen und Standort des Führenden bzw. der zuständigen Stelle.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q7",
+      "type": "open",
+      "question": "Welche Aufgaben haben S 1 bis S 6?",
+      "modelAnswer": "S1 Personal/Innerer Dienst; S2 Lage; S3 Einsatz; S4 Versorgung; S5 Presse- und Medienarbeit; S6 Information und Kommunikation.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q8",
+      "type": "open",
+      "question": "Nenne die Schritte des Führungsvorgangs.",
+      "modelAnswer": "Lagefeststellung bzw. Erkundung und Kontrolle; Planung mit Beurteilung und Entschluss; Befehlsgebung. Der Vorgang ist ein Kreislauf.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q35",
+      "type": "open",
+      "question": "Welche Grunddaten gehören in ein Einsatzprotokoll?",
+      "modelAnswer": "Einsatzort, Datum, Einsatznummer, Alarmierung, verantwortliche Führung, Zeiten, Lage bei Eintreffen, Kräfte, Betroffene, Maßnahmen und Einsatzende.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q36",
+      "type": "open",
+      "question": "Was wird im Einsatztagebuch dokumentiert?",
+      "modelAnswer": "Fortlaufend Datum/Uhrzeit, Ereignisse bzw. Lage, Maßnahmen/Befehle, Ein- und Ausgang sowie Bemerkungen und Anlagen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-fahrzeugregistrierung",
+      "type": "open",
+      "question": "Welche Daten führt ein Rettungsmittelhalteplatz?",
+      "modelAnswer": "Fahrzeugtyp, Herkunft, Stärke, Erreichbarkeit/Funkrufname, Eintreffen, Abfahrt, Ziel und Besonderheiten.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q38",
+      "type": "open",
+      "question": "Welche Punkte gehören in eine Abschlussmeldung?",
+      "modelAnswer": "Kurzbericht, Situation bzw. Ausfälle, Gefährdungen/Erschwernisse, Verbleib/Zustand/Erfahrungen, Ablösung, Verfassung der Kräfte sowie Zustand der Ausstattung.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-staerkeschreibweise",
+      "type": "open",
+      "question": "Was bedeutet die Stärkeschreibweise F/UF/H/Gesamt?",
+      "modelAnswer": "Führer / Unterführer / Helfer / Gesamtstärke.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q18",
+      "type": "open",
+      "question": "Erläutere 1/1/8/10.",
+      "modelAnswer": "1 Führer, 1 Unterführer, 8 Helfer, insgesamt 10 Personen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q19",
+      "type": "open",
+      "question": "Welche Stärke hat der Führungstrupp nach der hinterlegten Taschenkarte?",
+      "modelAnswer": "1/1/2/4. Achtung: Quelle DRK-LV Nordrhein, Stand 2008; für Rheinland-Pfalz aktuell bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Musterlösung enthält einen Achtung-Hinweis; Quelle Stand 2008; Regionale Quelle (DRK-LV Nordrhein); Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q20",
+      "type": "open",
+      "question": "Welche Stärke hat die Sanitätsgruppe nach der hinterlegten Taschenkarte?",
+      "modelAnswer": "1/1/8/10. Achtung: Quelle DRK-LV Nordrhein, Stand 2008; für Rheinland-Pfalz aktuell bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Musterlösung enthält einen Achtung-Hinweis; Quelle Stand 2008; Regionale Quelle (DRK-LV Nordrhein); Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q21",
+      "type": "open",
+      "question": "Welche Stärke hat die Betreuungsgruppe nach der hinterlegten Taschenkarte?",
+      "modelAnswer": "0/4/11/15, dort als drei Trupps angegeben. Achtung: Quelle DRK-LV Nordrhein, Stand 2008; aktuell bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Musterlösung enthält einen Achtung-Hinweis; Quelle Stand 2008; Regionale Quelle (DRK-LV Nordrhein); Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q22",
+      "type": "open",
+      "question": "Welche Stärke hat die Gruppe Technik und Sicherheit nach der hinterlegten Taschenkarte?",
+      "modelAnswer": "0/1/3/4. Achtung: Quelle DRK-LV Nordrhein, Stand 2008; aktuell bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Musterlösung enthält einen Achtung-Hinweis; Quelle Stand 2008; Regionale Quelle (DRK-LV Nordrhein); Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q23",
+      "type": "open",
+      "question": "Welche Gesamtstärke hat die Einsatzeinheit nach der hinterlegten Nordrhein-Taschenkarte?",
+      "modelAnswer": "2/7/24/33. Regionale und zeitliche Gültigkeit vor dem nächsten Lehrgang bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3,
+      "verificationNote": "Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q24",
+      "type": "open",
+      "question": "Wofür steht KdoW?",
+      "modelAnswer": "Kommandowagen; Kennzahl 10 in der hinterlegten Merkkarte.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 1,
+      "weight": 1,
+      "verificationNote": "Fahrzeugkennzahlen aus hinterlegter Merkkarte (regional)"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q25",
+      "type": "open",
+      "question": "Wofür stehen ELW 1 und ELW 2?",
+      "modelAnswer": "Einsatzleitwagen 1 und Einsatzleitwagen 2; Kennzahlen 11 und 12 in der hinterlegten Merkkarte.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 1,
+      "weight": 1,
+      "verificationNote": "Fahrzeugkennzahlen aus hinterlegter Merkkarte (regional)"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q26",
+      "type": "open",
+      "question": "Wofür steht MTW?",
+      "modelAnswer": "Mannschaftstransportwagen; Kennzahl 18 in der hinterlegten Merkkarte.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 1,
+      "weight": 1,
+      "verificationNote": "Fahrzeugkennzahlen aus hinterlegter Merkkarte (regional)"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q27",
+      "type": "open",
+      "question": "Ordne GW-San, GW-Beh, GW-Betr, GW-Verpfl und GW-TeSi zu.",
+      "modelAnswer": "Gerätewagen Sanitätsdienst (61), Behandlung (62), Betreuung (63), Verpflegung (64), Technik und Sicherheit (65). Regionale Funkrufnamenregelung aktuell bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3,
+      "verificationNote": "Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q28",
+      "type": "open",
+      "question": "Ordne NAW, NEF, RTW, KTW B und KTW zu.",
+      "modelAnswer": "Notarztwagen 81; Notarzteinsatzfahrzeug 82; Rettungswagen 83; Krankentransportwagen Typ B 84; Krankentransportwagen 85, gemäß hinterlegter Merkkarte.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3,
+      "verificationNote": "Fahrzeugkennzahlen aus hinterlegter Merkkarte (regional)"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-fahrzeugregistrierung",
+      "type": "open",
+      "question": "Welche Informationen gehören in eine Fahrzeugregistrierung?",
+      "modelAnswer": "Fahrzeugtyp, Herkunft/Einheit, Stärke, Erreichbarkeit/Funkrufname, Eintreffen, Abfahrt, Ziel und Besonderheiten.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "topic": "Funk",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q47",
+      "type": "open",
+      "question": "Wie ist ein Funkrufname grundsätzlich zusammengesetzt?",
+      "modelAnswer": "Kennwort/Einsatzbereich bzw. Organisation, Standort, Fahrzeugart/Kennzahl und Ordnungszahl. Konkrete Regeln regional aktuell bestätigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Aktualität laut Katalog vor dem Lehrgang bestätigen"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "topic": "Funk",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q48",
+      "type": "open",
+      "question": "Nenne einen wichtigen Grundsatz des Sprechfunks.",
+      "modelAnswer": "Funkdisziplin einhalten: kurz, eindeutig, sachlich und den vorgesehenen Meldeweg benutzen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q61",
+      "number": 61,
+      "topic": "Führungspraxis",
+      "domain": "Führung",
+      "learningObjective": "lo-q61",
+      "type": "open",
+      "question": "Warum müssen Aufträge eindeutig und kontrollierbar sein?",
+      "modelAnswer": "Damit Empfänger Ziel, Zuständigkeit, Raum, Zeit und Ergebnis verstehen und die Durchführung kontrolliert bzw. rückgemeldet werden kann.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q62",
+      "number": 62,
+      "topic": "Führungspraxis",
+      "domain": "Führung",
+      "learningObjective": "lo-q62",
+      "type": "open",
+      "question": "Was tust du bei einer unklaren Prüfungsfrage oder einem Blackout?",
+      "modelAnswer": "Kurz strukturieren: Begriff definieren, Zweck nennen, Beispiel geben. Rückfrage stellen, laut geordnet denken und mit sicheren Kernpunkten beginnen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q39",
+      "type": "open",
+      "question": "Nenne das ACE-/Gefahrenschema aus der Taschenkarte.",
+      "modelAnswer": "Atemgift, Angst, Ausbreitung, atomare Strahlung; chemische Stoffe; Erkrankung, Explosion, Elektrizität, Einsturz.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q40",
+      "type": "open",
+      "question": "Was bedeutet Eigenschutz geht vor Fremdrettung?",
+      "modelAnswer": "Einsatzkräfte dürfen sich nicht unvertretbar selbst gefährden; Gefahrenlage, Schutzmaßnahmen und Freigaben sind vor Rettungsmaßnahmen zu berücksichtigen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "topic": "Grundbegriffe",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q12",
+      "type": "open",
+      "question": "Erkläre Räumung und Evakuierung.",
+      "modelAnswer": "Räumung: unmittelbares Verlassen eines gefährdeten Bereichs bei akuter Gefahr. Evakuierung: geplante und organisierte Verlegung von Personen in einen sicheren Bereich.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "topic": "Grundbegriffe",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q13",
+      "type": "open",
+      "question": "Was ist ein Bereitstellungsraum?",
+      "modelAnswer": "Ein festgelegter Bereich, in dem nachrückende Kräfte und Einsatzmittel gesammelt, erfasst, organisiert und von dort koordiniert eingesetzt werden.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q30",
+      "type": "open",
+      "question": "Was hat für das erste Fahrzeug an einer MANV-Lage Vorrang?",
+      "modelAnswer": "Gefahrenbereich erkennen und Selbstschutz gewährleisten; keine vorschnelle Patientenversorgung und kein spontaner Abtransport nach der hinterlegten Checkliste.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q31",
+      "type": "open",
+      "question": "Welche ersten Führungsmaßnahmen nennt die Checkliste für das erste Fahrzeug?",
+      "modelAnswer": "Als Einsatzleiter kennzeichnen, Funk/Schreiber bestimmen, Überblick gewinnen, Kontakt zu Feuerwehr/Polizei, erkunden und an Leitstelle melden.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q32",
+      "type": "open",
+      "question": "Welche räumlichen Festlegungen sind früh zu treffen?",
+      "modelAnswer": "Zufahrtswege, Bereitstellungsraum/Meldestelle, Behandlungs- bzw. Triageplatz, Material-/Meldestelle und Verletztensammelstelle.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q33",
+      "type": "open",
+      "question": "Was muss bei Übergabe der Einsatzleitung beachtet werden?",
+      "modelAnswer": "Geordnete Übergabe, Kennzeichnung übergeben und Übergaberegeln beachten; Lage und Maßnahmen nachvollziehbar darstellen.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q34",
+      "type": "open",
+      "question": "Welche Angaben umfasst eine Rückmeldung zum Schadensraum?",
+      "modelAnswer": "Genauer Ort, Zufahrtswege, Ereignis, Standort BR/Melder, besondere Gefahren, Betroffenenzahlen und gegebenenfalls benötigte Nachalarmierung.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q58",
+      "number": 58,
+      "topic": "Medizinische Grundlagen",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-abcde",
+      "type": "open",
+      "question": "Was bedeutet ABCDE?",
+      "modelAnswer": "Airway/Atemweg, Breathing/Atmung, Circulation/Kreislauf, Disability/neurologischer Status, Exposure/Entkleiden und Umwelteinflüsse.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q59",
+      "number": 59,
+      "topic": "Medizinische Grundlagen",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q59",
+      "type": "open",
+      "question": "Was bedeutet SAMPLE?",
+      "modelAnswer": "Symptome, Allergien, Medikation, persönliche Vorgeschichte, letzte Nahrungsaufnahme, Ereignisse vor dem Notfall.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "topic": "Medizinische Grundlagen",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q60",
+      "type": "open",
+      "question": "Welcher Grundsatz steckt hinter ABCDE?",
+      "modelAnswer": "Treat first what kills first: Zuerst das Problem behandeln, das den Patienten zuerst töten kann.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "grading": {
+        "mode": "groups",
+        "required": 1,
+        "groups": [
+          {
+            "label": "Treat first what kills first / zuerst das Lebensbedrohlichste behandeln",
+            "accept": [
+              "treat first",
+              "kills first",
+              "zuerst",
+              "lebensbedrohlich",
+              "toetet"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "topic": "Meldewesen",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q9",
+      "type": "open",
+      "question": "Nenne die sieben Punkte des Meldeschemas.",
+      "modelAnswer": "Wann eingetreten? Wo ist das Ereignis? Was ist geschehen? Wie ist die Lage? Wie viele Betroffene? Was wird getan? Wer meldet?",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3,
+      "grading": {
+        "mode": "groups",
+        "required": 6,
+        "groups": [
+          {
+            "label": "Wann eingetreten?",
+            "accept": [
+              "wann",
+              "eingetreten",
+              "zeitpunkt"
+            ]
+          },
+          {
+            "label": "Wo ist das Ereignis?",
+            "accept": [
+              "wo",
+              "ereignisort",
+              "ort"
+            ]
+          },
+          {
+            "label": "Was ist geschehen?",
+            "accept": [
+              "was",
+              "geschehen",
+              "ereignis",
+              "passiert"
+            ]
+          },
+          {
+            "label": "Wie ist die Lage?",
+            "accept": [
+              "wie",
+              "lage"
+            ]
+          },
+          {
+            "label": "Wie viele Betroffene?",
+            "accept": [
+              "betroffene",
+              "verletzte",
+              "wie viele",
+              "wieviele",
+              "anzahl"
+            ]
+          },
+          {
+            "label": "Was wird getan?",
+            "accept": [
+              "getan",
+              "massnahmen",
+              "wird gemacht"
+            ]
+          },
+          {
+            "label": "Wer meldet?",
+            "accept": [
+              "wer meldet",
+              "meldet",
+              "absender",
+              "meldender"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "topic": "Meldewesen",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q10",
+      "type": "open",
+      "question": "Welcher Grundsatz gilt für Meldungen?",
+      "modelAnswer": "So häufig wie nötig, so knapp wie möglich.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "grading": {
+        "mode": "groups",
+        "required": 2,
+        "groups": [
+          {
+            "label": "So häufig wie nötig",
+            "accept": [
+              "haeufig",
+              "oft wie noetig",
+              "so oft"
+            ]
+          },
+          {
+            "label": "So knapp wie möglich",
+            "accept": [
+              "knapp",
+              "kurz"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "topic": "Meldewesen",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q11",
+      "type": "case",
+      "question": "Formuliere eine kurze Lagemeldung zu einem Verkehrsunfall mit drei Verletzten.",
+      "modelAnswer": "Die Meldung sollte Zeitpunkt, genauen Ort, Ereignis, aktuelle Lage, Zahl der Betroffenen, laufende Maßnahmen und Absender enthalten.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3,
+      "explanation": "Fallaufgabe: Das System prüft, ob die sieben Elemente des Meldeschemas erkennbar enthalten sind (mindestens 5).",
+      "grading": {
+        "mode": "groups",
+        "required": 5,
+        "groups": [
+          {
+            "label": "Zeitpunkt",
+            "accept": [
+              "uhr",
+              "zeit",
+              "datum"
+            ]
+          },
+          {
+            "label": "Genauer Ort",
+            "accept": [
+              "strasse",
+              "ort",
+              "hoehe",
+              "kreuzung",
+              "kreuz",
+              "autobahn",
+              "bundesstrasse",
+              "ortsausgang",
+              "ortseingang",
+              "km"
+            ]
+          },
+          {
+            "label": "Ereignis",
+            "accept": [
+              "unfall",
+              "zusammenstoss",
+              "kollision"
+            ]
+          },
+          {
+            "label": "Aktuelle Lage",
+            "accept": [
+              "lage",
+              "eingeklemmt",
+              "brand",
+              "auslauf",
+              "pkw",
+              "lkw",
+              "fahrzeug"
+            ]
+          },
+          {
+            "label": "Zahl der Betroffenen",
+            "accept": [
+              "3",
+              "drei"
+            ]
+          },
+          {
+            "label": "Laufende Maßnahmen",
+            "accept": [
+              "versorg",
+              "abgesichert",
+              "absicher",
+              "eingeleitet",
+              "nachgefordert",
+              "angefordert",
+              "massnahme"
+            ]
+          },
+          {
+            "label": "Absender",
+            "accept": [
+              "meldet",
+              "absender",
+              "ende",
+              "hier"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q49",
+      "type": "open",
+      "question": "Welche Aussagen kann ein taktisches Zeichen enthalten?",
+      "modelAnswer": "Grundzeichen bzw. Art der Einheit/Stelle, Größenordnung, Fachaufgabe/Funktion, Organisation und Zusatzangaben.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q50",
+      "type": "open",
+      "question": "Welche Größenzeichen stehen für Trupp, Gruppe und Zug?",
+      "modelAnswer": "Ein Strich/Punktierung entsprechend DV 102: Trupp, zwei Kennzeichnungen: Gruppe, drei: Zug. In der App im Bildtraining üben; offizielle DV 102 ist maßgeblich.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Verweis auf maßgebliche DV 102; Zuordnung der Größenzeichen (Punkte/Striche) ist im Katalog unscharf formuliert; DV 102 kennt weitere Größenordnungen – vollständig gegen DV 102 prüfen"
+    },
+    {
+      "id": "q51",
+      "number": 51,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q51",
+      "type": "open",
+      "question": "Nenne Grundzeichen aus der DV-102-Taschenkarte.",
+      "modelAnswer": "Taktische Formation, Befehlsstelle, Stelle/Einrichtung, ortsgebundene Stelle, Gebäude, Landfahrzeug, Abrollbehälter, Anhänger, Hubschrauber und Wasserfahrzeug.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q52",
+      "number": 52,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q52",
+      "type": "open",
+      "question": "Nenne wichtige Einrichtungen/Stellen.",
+      "modelAnswer": "Bereitstellungsraum, Rettungsmittelhalteplatz, Patientenablage, Anlaufstelle, Behandlungsplatz, Betreuungsplatz und Hubschrauberlandeplatz.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q53",
+      "number": 53,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q53",
+      "type": "open",
+      "question": "Welche Personenzustände können taktisch dargestellt werden?",
+      "modelAnswer": "Betroffene, verletzte, tote, vermisste, verschüttete und gerettete Person.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q54",
+      "number": 54,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q54",
+      "type": "open",
+      "question": "Welche Führungsfunktionen können bei Einsatzkräften dargestellt werden?",
+      "modelAnswer": "Helfer, Truppführer, Gruppenführer, Zugführer, Verbandsführer, Arzt und Person mit Sonderfunktion.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q55",
+      "number": 55,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-staerkeschreibweise",
+      "type": "open",
+      "question": "Wie wird Mannschaftsstärke geschrieben?",
+      "modelAnswer": "Führer / Unterführer / Helfer / Gesamt.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q56",
+      "number": 56,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-taktische-zeit",
+      "type": "open",
+      "question": "Wie lautet die taktische Zeitschreibweise für 26. Mai 2008, 11:57 Uhr?",
+      "modelAnswer": "261157may08.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 2,
+      "weight": 2
+    },
+    {
+      "id": "q57",
+      "number": 57,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q57",
+      "type": "open",
+      "question": "Wie ist eine UTM-Koordinate grundsätzlich aufgebaut?",
+      "modelAnswer": "UTM-Zone, 100-km-Quadrat, Ostwert, UTM-Band und Nordwert; Karten- und Genauigkeitsvorgaben beachten.",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "tags": [],
+      "difficulty": 3,
+      "weight": 3
+    },
+    {
+      "id": "q1001",
+      "number": 1001,
+      "originalNumber": 1,
+      "topic": "Führungsorganisation",
+      "domain": "Führung",
+      "learningObjective": "lo-q1001",
+      "type": "multiple-choice",
+      "question": "Aus welchen Personen setzt sich die „Abschnittsleitung Gesundheit“ zusammen?",
+      "modelAnswer": "Leitender Notarzt / Leitende Notärztin; Organisatorischer Leiter / Organisatorische Leiterin",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 1",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Leitender Notarzt / Leitende Notärztin",
+        "Einsatzleiter / Einsatzleiterin",
+        "Landrat / Landrätin",
+        "Organisatorischer Leiter / Organisatorische Leiterin"
+      ],
+      "correctAnswers": [
+        "Leitender Notarzt / Leitende Notärztin",
+        "Organisatorischer Leiter / Organisatorische Leiterin"
+      ]
+    },
+    {
+      "id": "q1002",
+      "number": 1002,
+      "originalNumber": 2,
+      "topic": "KFZ-Marsch",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1002",
+      "type": "single-choice",
+      "question": "Welche Marschgeschwindigkeit sollte außerhalb geschlossener Ortschaften gewählt werden?",
+      "modelAnswer": "60 - 70 km/h",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 2",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "30 - 45 km/h",
+        "60 - 70 km/h",
+        "80 - 90 km/h",
+        "70 - 80 km/h"
+      ],
+      "correctAnswers": [
+        "60 - 70 km/h"
+      ]
+    },
+    {
+      "id": "q1003",
+      "number": 1003,
+      "originalNumber": 3,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1003",
+      "type": "multiple-choice",
+      "question": "Wodurch zeichnet sich die Führungsstufe B nach DV 100 aus?",
+      "modelAnswer": "Führungstruppe oder -staffel; Führen mit örtlichen Führungseinheiten; Zug oder Verband an einer Einsatzstelle",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 3",
+      "sourceStatus": "needs-current-verification",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Führen ohne Führungsmittel",
+        "Taktische Einheiten bis zur Stärke von zwei Gruppen",
+        "Führungseinrichtungen (z. B. Leitstelle)",
+        "Führungstruppe oder -staffel",
+        "Führen mit örtlichen Führungseinheiten",
+        "Zug oder Verband an einer Einsatzstelle"
+      ],
+      "correctAnswers": [
+        "Führungstruppe oder -staffel",
+        "Führen mit örtlichen Führungseinheiten",
+        "Zug oder Verband an einer Einsatzstelle"
+      ],
+      "verificationNote": "Die Auswertung zeigt nur „Falsch“ für „Führen ohne Führungsmittel“. Lösung aus der Führungsstufen-Tabelle der DV 100 abgeleitet – mit Lehrgangsunterlage bestätigen"
+    },
+    {
+      "id": "q1004",
+      "number": 1004,
+      "originalNumber": 4,
+      "topic": "RAEP",
+      "domain": "RAEP",
+      "learningObjective": "lo-q1004",
+      "type": "open",
+      "question": "Wofür steht die Abkürzung RAEP im rheinland-pfälzischen Katastrophenschutz?",
+      "modelAnswer": "Rahmen-, Alarm- und Einsatzplan",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 4",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 1,
+        "groups": [
+          {
+            "label": "Rahmen-, Alarm- und Einsatzplan",
+            "accept": [
+              "Rahmen-, Alarm- und Einsatzplan"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1005",
+      "number": 1005,
+      "originalNumber": 5,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-befehlsschema",
+      "type": "ordering",
+      "question": "Ordnen Sie die Bestandteile des erweiterten Befehlsschemas in der richtigen Reihenfolge an.",
+      "modelAnswer": "Lage → Allgemeine Lage → Eigene Lage → Auftrag → Durchführung → Versorgung → Führung und Verbindung",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 5",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "correctAnswers": [
+        "Lage",
+        "Allgemeine Lage",
+        "Eigene Lage",
+        "Auftrag",
+        "Durchführung",
+        "Versorgung",
+        "Führung und Verbindung"
+      ]
+    },
+    {
+      "id": "q1006",
+      "number": 1006,
+      "originalNumber": 6,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1006",
+      "type": "single-choice",
+      "question": "Welche Stärke hat ein Katastrophenschutzmodul Verpflegungsdienst nach HiK-Konzept 3.0?",
+      "modelAnswer": "0/1/8/9",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 6 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "0/1/8/9",
+        "1/1/4/6",
+        "0/1/5/6",
+        "0/1/11/12"
+      ],
+      "correctAnswers": [
+        "0/1/8/9"
+      ]
+    },
+    {
+      "id": "q1007",
+      "number": 1007,
+      "originalNumber": 7,
+      "topic": "Sichtung",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q1007",
+      "type": "multiple-choice",
+      "question": "Welche Sichtungskategorie(n) ist/sind korrekt?",
+      "modelAnswer": "SK I = Vitale Bedrohung; EX = Tot; SK II = Schwer verletzt / Erkrankt",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 7",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "SK I = Vitale Bedrohung",
+        "EX = Tot",
+        "SK III = Schwer verletzt / Erkrankt",
+        "SK IV = Vitale Bedrohung",
+        "SK II = Schwer verletzt / Erkrankt"
+      ],
+      "correctAnswers": [
+        "SK I = Vitale Bedrohung",
+        "EX = Tot",
+        "SK II = Schwer verletzt / Erkrankt"
+      ]
+    },
+    {
+      "id": "q1008",
+      "number": 1008,
+      "originalNumber": 8,
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1008",
+      "type": "open",
+      "question": "Nennen Sie mindestens fünf Gefahren aus dem 5A-B-C-5E-Schema.",
+      "modelAnswer": "Mindestens 5 von: Atemgifte; Angstreaktion/Panik; Ausbreitung; Atomare Gefahren / Ionisierende Strahlung; Absturz; Brand; Chemische Gefahren; Explosion; Erkrankung / Verletzung; Elektrizität; Einsturz; Ertrinken / Wassergefahren",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 8",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 5,
+        "groups": [
+          {
+            "label": "Atemgifte",
+            "accept": [
+              "atemgift"
+            ]
+          },
+          {
+            "label": "Angstreaktion/Panik",
+            "accept": [
+              "angst",
+              "panik"
+            ]
+          },
+          {
+            "label": "Ausbreitung",
+            "accept": [
+              "Ausbreitung"
+            ]
+          },
+          {
+            "label": "Atomare Gefahren / Ionisierende Strahlung",
+            "accept": [
+              "atomar",
+              "ionisierende strahlung"
+            ]
+          },
+          {
+            "label": "Absturz",
+            "accept": [
+              "Absturz"
+            ]
+          },
+          {
+            "label": "Brand",
+            "accept": [
+              "Brand"
+            ]
+          },
+          {
+            "label": "Chemische Gefahren",
+            "accept": [
+              "chemisch"
+            ]
+          },
+          {
+            "label": "Explosion",
+            "accept": [
+              "Explosion"
+            ]
+          },
+          {
+            "label": "Erkrankung / Verletzung",
+            "accept": [
+              "erkrankung",
+              "verletzung"
+            ]
+          },
+          {
+            "label": "Elektrizität",
+            "accept": [
+              "elektri"
+            ]
+          },
+          {
+            "label": "Einsturz",
+            "accept": [
+              "Einsturz"
+            ]
+          },
+          {
+            "label": "Ertrinken / Wassergefahren",
+            "accept": [
+              "ertrinken",
+              "wassergefahr"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1009",
+      "number": 1009,
+      "originalNumber": 9,
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1009",
+      "type": "ordering",
+      "question": "Ordnen Sie die folgenden Führungsebenen von „oben“ nach „unten“ an.",
+      "modelAnswer": "Einsatzleitung → Abschnittsleitung → Zug- und Verbandsführer/-führerinnen → Trupp- und Gruppenführer/-führerinnen",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 9",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "correctAnswers": [
+        "Einsatzleitung",
+        "Abschnittsleitung",
+        "Zug- und Verbandsführer/-führerinnen",
+        "Trupp- und Gruppenführer/-führerinnen"
+      ]
+    },
+    {
+      "id": "q1010",
+      "number": 1010,
+      "originalNumber": 10,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1010",
+      "type": "single-choice",
+      "question": "Welche Stärke hat eine SEG Soziale Betreuung nach HiK-Konzept 3.0?",
+      "modelAnswer": "0/1/5/6",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 10 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "0/1/5/6",
+        "0/1/11/12",
+        "0/0/6/6",
+        "1/1/4/6"
+      ],
+      "correctAnswers": [
+        "0/1/5/6"
+      ]
+    },
+    {
+      "id": "q1011",
+      "number": 1011,
+      "originalNumber": 11,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1011",
+      "type": "single-choice",
+      "question": "Welche Leistung kann ein Katastrophenschutzmodul Verpflegungsdienst laut HiK-Konzept 3.0 erbringen?",
+      "modelAnswer": "Verpflegung von 300 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 11 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Verpflegung von 300 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+        "Verpflegung von 150 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+        "Verpflegung von 500 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+        "Verpflegung von 250 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung"
+      ],
+      "correctAnswers": [
+        "Verpflegung von 300 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung"
+      ]
+    },
+    {
+      "id": "q1012",
+      "number": 1012,
+      "originalNumber": 12,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1012",
+      "type": "multiple-choice",
+      "question": "Welche Leistung kann ein Katastrophenschutzmodul Betreuungsdienst laut HiK-Konzept 3.0 erbringen?",
+      "modelAnswer": "Sammlung und Betreuung von 150 Personen in der Soforthilfephase; Einrichtung einer Betreuungsstelle für 150 Betroffene; Einrichtung eines Betreuungsplatzes für 100 Betroffene bei Gestellung von zusätzlichem Material",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 12 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Sammlung und Betreuung von 150 Personen in der Soforthilfephase",
+        "Einrichtung einer Betreuungsstelle für 150 Betroffene",
+        "Sammlung und Betreuung von 300 Personen in der Soforthilfephase",
+        "Einrichtung eines Betreuungsplatzes für 100 Betroffene bei Gestellung von zusätzlichem Material"
+      ],
+      "correctAnswers": [
+        "Sammlung und Betreuung von 150 Personen in der Soforthilfephase",
+        "Einrichtung einer Betreuungsstelle für 150 Betroffene",
+        "Einrichtung eines Betreuungsplatzes für 100 Betroffene bei Gestellung von zusätzlichem Material"
+      ]
+    },
+    {
+      "id": "q1013",
+      "number": 1013,
+      "originalNumber": 13,
+      "topic": "RAEP Gesundheit",
+      "domain": "RAEP",
+      "learningObjective": "lo-q1013",
+      "type": "single-choice",
+      "question": "Wie viele Alarmstufen gibt der RAEP Gesundheit vor?",
+      "modelAnswer": "5",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 13 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswers": [
+        "5"
+      ]
+    },
+    {
+      "id": "q1014",
+      "number": 1014,
+      "originalNumber": 14,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1014",
+      "type": "open",
+      "question": "Welche drei Bestandteile gehören zum Führungssystem nach DV 100?",
+      "modelAnswer": "Führungsorganisation; Führungsvorgang; Führungsmittel",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 14",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "Führungsorganisation",
+            "accept": [
+              "Führungsorganisation"
+            ]
+          },
+          {
+            "label": "Führungsvorgang",
+            "accept": [
+              "Führungsvorgang"
+            ]
+          },
+          {
+            "label": "Führungsmittel",
+            "accept": [
+              "Führungsmittel"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1015",
+      "number": 1015,
+      "originalNumber": 15,
+      "topic": "Räume und Stellen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1015",
+      "type": "open",
+      "question": "Nennen Sie mindestens drei Räume außer der Patientenablage.",
+      "modelAnswer": "Mindestens 3 von: Behandlungsplatz; Bereitstellungsraum; Rettungsmittelhalteplatz; Betreuungsstelle; Anlaufstelle; Betreuungsplatz; Unterkunft",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 15",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "Behandlungsplatz",
+            "accept": [
+              "Behandlungsplatz"
+            ]
+          },
+          {
+            "label": "Bereitstellungsraum",
+            "accept": [
+              "Bereitstellungsraum"
+            ]
+          },
+          {
+            "label": "Rettungsmittelhalteplatz",
+            "accept": [
+              "Rettungsmittelhalteplatz"
+            ]
+          },
+          {
+            "label": "Betreuungsstelle",
+            "accept": [
+              "Betreuungsstelle"
+            ]
+          },
+          {
+            "label": "Anlaufstelle",
+            "accept": [
+              "Anlaufstelle"
+            ]
+          },
+          {
+            "label": "Betreuungsplatz",
+            "accept": [
+              "Betreuungsplatz"
+            ]
+          },
+          {
+            "label": "Unterkunft",
+            "accept": [
+              "Unterkunft"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1016",
+      "number": 1016,
+      "originalNumber": 16,
+      "topic": "Katastrophenschutz RLP",
+      "domain": "Recht & RLP-Konzepte",
+      "learningObjective": "lo-q1016",
+      "type": "open",
+      "question": "Nennen Sie ein besonderes Konzept im rheinland-pfälzischen Katastrophenschutz.",
+      "modelAnswer": "Mindestens 1 von: Großraum-RTW (G-RTW); Medikamentendepot; Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK); Sonderalarm Rettungsdienst",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 16",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 1,
+        "groups": [
+          {
+            "label": "Großraum-RTW (G-RTW)",
+            "accept": [
+              "grossraum rtw",
+              "grtw"
+            ]
+          },
+          {
+            "label": "Medikamentendepot",
+            "accept": [
+              "Medikamentendepot"
+            ]
+          },
+          {
+            "label": "Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK)",
+            "accept": [
+              "zentrale einrichtung landesvorhaltung",
+              "zelk"
+            ]
+          },
+          {
+            "label": "Sonderalarm Rettungsdienst",
+            "accept": [
+              "sonderalarm"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1017",
+      "number": 1017,
+      "originalNumber": 17,
+      "topic": "Kennzeichnung",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q1017",
+      "type": "single-choice",
+      "question": "Wer trägt eine weiße Kennzeichnungsweste?",
+      "modelAnswer": "Einsatzabschnittsleiter/-in",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 17",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Untereinsatzabschnittleiter/-in",
+        "Einsatzleiter/-in",
+        "Einsatzabschnittsleiter/-in",
+        "Gruppenführer/-in",
+        "PSNV-Kraft",
+        "Fachberater/-in"
+      ],
+      "correctAnswers": [
+        "Einsatzabschnittsleiter/-in"
+      ]
+    },
+    {
+      "id": "q1018",
+      "number": 1018,
+      "originalNumber": 18,
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1018",
+      "type": "open",
+      "question": "Was beschreibt der Begriff Führungsspanne?",
+      "modelAnswer": "Jede Führungskraft ist nur in der Lage, maximal 5 Einheiten zu führen.",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 18",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 1,
+        "groups": [
+          {
+            "label": "maximal 5 Einheiten je Führungskraft",
+            "accept": [
+              "5",
+              "fuenf"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1019",
+      "number": 1019,
+      "originalNumber": 19,
+      "topic": "Taktische Zeit",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-taktische-zeit",
+      "type": "open",
+      "question": "Geben Sie folgende Zeitangabe als taktische Zeit in Langform an: Mittwoch, 16.09.2024, 07:58 Uhr",
+      "modelAnswer": "160758sep24",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 19",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "exact",
+        "label": "160758sep24",
+        "accept": [
+          "160758sep24"
+        ]
+      }
+    },
+    {
+      "id": "q1020",
+      "number": 1020,
+      "originalNumber": 20,
+      "topic": "Rechtsgrundlagen",
+      "domain": "Recht & RLP-Konzepte",
+      "learningObjective": "lo-q1020",
+      "type": "open",
+      "question": "Nennen Sie sechs rechtliche Grundlagen, welche für den Katastrophenschutz in Rheinland-Pfalz relevant sind.",
+      "modelAnswer": "Mindestens 6 von: DV 100; LBKG (Brand- und Katastrophenschutzgesetz); K-Vorschrift; RAEP (Rahmen-, Alarm- und Einsatzplan); Rettungsdienstgesetz RLP (RettDG); Infektionsschutzgesetz (IfSG); Ordnung der Bereitschaften; Disziplinar- und Beschwerdeordnung; Straßenverkehrsordnung (StVO); Straßenverkehrs-Zulassungs-Ordnung (StVZO)",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 20",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 6,
+        "groups": [
+          {
+            "label": "DV 100",
+            "accept": [
+              "dv100"
+            ]
+          },
+          {
+            "label": "LBKG (Brand- und Katastrophenschutzgesetz)",
+            "accept": [
+              "lbkg",
+              "brand und katastrophenschutzgesetz"
+            ]
+          },
+          {
+            "label": "K-Vorschrift",
+            "accept": [
+              "kvorschrift"
+            ]
+          },
+          {
+            "label": "RAEP (Rahmen-, Alarm- und Einsatzplan)",
+            "accept": [
+              "raep",
+              "aep",
+              "rahmen alarm und einsatzplan"
+            ]
+          },
+          {
+            "label": "Rettungsdienstgesetz RLP (RettDG)",
+            "accept": [
+              "rettungsdienstgesetz",
+              "rettdg"
+            ]
+          },
+          {
+            "label": "Infektionsschutzgesetz (IfSG)",
+            "accept": [
+              "ifsg",
+              "infektionsschutzgesetz"
+            ]
+          },
+          {
+            "label": "Ordnung der Bereitschaften",
+            "accept": [
+              "ordnung der bereitschaften"
+            ]
+          },
+          {
+            "label": "Disziplinar- und Beschwerdeordnung",
+            "accept": [
+              "disziplinar",
+              "beschwerdeordnung"
+            ]
+          },
+          {
+            "label": "Straßenverkehrsordnung (StVO)",
+            "accept": [
+              "stvo",
+              "strassenverkehrsordnung"
+            ]
+          },
+          {
+            "label": "Straßenverkehrs-Zulassungs-Ordnung (StVZO)",
+            "accept": [
+              "stvzo",
+              "zulassungsordnung"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1021",
+      "number": 1021,
+      "originalNumber": 21,
+      "topic": "Kennzeichnung",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q1021",
+      "type": "single-choice",
+      "question": "Wie lautet die Helmkennzeichnung für eine/n ernannte/n Gruppenführer/-in einer Hilfsorganisation?",
+      "modelAnswer": "1 Streifen, blau",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 21 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "2 Streifen, blau",
+        "2 Ringe, blau",
+        "1 Streifen, blau",
+        "1 Ring, blau"
+      ],
+      "correctAnswers": [
+        "1 Streifen, blau"
+      ]
+    },
+    {
+      "id": "q1022",
+      "number": 1022,
+      "originalNumber": 22,
+      "topic": "Sicherheit",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1022",
+      "type": "multiple-choice",
+      "question": "Wie kann eine Einsatzkraft Stresssituationen leichter begegnen?",
+      "modelAnswer": "Vermittlung von Techniken, Taktik und Schulungen; Stärkung durch das soziale Umfeld; Persönliche Vorbereitung",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 22",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Alkoholgenuss",
+        "Vermittlung von Techniken, Taktik und Schulungen",
+        "Stärkung durch das soziale Umfeld",
+        "Persönliche Vorbereitung"
+      ],
+      "correctAnswers": [
+        "Vermittlung von Techniken, Taktik und Schulungen",
+        "Stärkung durch das soziale Umfeld",
+        "Persönliche Vorbereitung"
+      ]
+    },
+    {
+      "id": "q1023",
+      "number": 1023,
+      "originalNumber": 23,
+      "topic": "Versorgungsweg",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q1023",
+      "type": "ordering",
+      "question": "Wie lautet die korrekte Reihenfolge der Bereiche beim Versorgungsweg „Kranker und Verletzter“?",
+      "modelAnswer": "Schadensraum → Behandlungsraum → Transportraum → Hospitalisationsraum",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 23",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "correctAnswers": [
+        "Schadensraum",
+        "Behandlungsraum",
+        "Transportraum",
+        "Hospitalisationsraum"
+      ]
+    },
+    {
+      "id": "q1024",
+      "number": 1024,
+      "originalNumber": 24,
+      "topic": "Befehlsgebung",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1024",
+      "type": "ordering",
+      "question": "Ordnen Sie die folgenden Begriffe in die korrekte zeitliche Abfolge ein.",
+      "modelAnswer": "Befehlsausgabe → Befehlswiederholung → Befehlsausführung",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 24",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "correctAnswers": [
+        "Befehlsausgabe",
+        "Befehlswiederholung",
+        "Befehlsausführung"
+      ]
+    },
+    {
+      "id": "q1025",
+      "number": 1025,
+      "originalNumber": 25,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1025",
+      "type": "single-choice",
+      "question": "Welche Stärke hat eine SEG Unterkunft nach HiK-Konzept 3.0?",
+      "modelAnswer": "0/1/5/6",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 25 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "0/1/11/12",
+        "0/1/5/6",
+        "0/0/6/6",
+        "1/1/4/6"
+      ],
+      "correctAnswers": [
+        "0/1/5/6"
+      ]
+    },
+    {
+      "id": "q1026",
+      "number": 1026,
+      "originalNumber": 26,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1026",
+      "type": "single-choice",
+      "question": "Welche Stärke hat eine SEG Transport nach HiK-Konzept 3.0?",
+      "modelAnswer": "1/1/6/8",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 26 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "0/1/5/6",
+        "1/1/4/6",
+        "1/1/6/8",
+        "0/1/7/8"
+      ],
+      "correctAnswers": [
+        "1/1/6/8"
+      ]
+    },
+    {
+      "id": "q1027",
+      "number": 1027,
+      "originalNumber": 27,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1027",
+      "type": "open",
+      "question": "Welche Katastrophenschutzmodule nennt das HiK-Konzept 3.0?",
+      "modelAnswer": "Führung; Sanitätsdienst; Betreuungsdienst; Verpflegungsdienst",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 27",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 4,
+        "groups": [
+          {
+            "label": "Führung",
+            "accept": [
+              "Führung"
+            ]
+          },
+          {
+            "label": "Sanitätsdienst",
+            "accept": [
+              "Sanitätsdienst"
+            ]
+          },
+          {
+            "label": "Betreuungsdienst",
+            "accept": [
+              "Betreuungsdienst"
+            ]
+          },
+          {
+            "label": "Verpflegungsdienst",
+            "accept": [
+              "Verpflegungsdienst"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1028",
+      "number": 1028,
+      "originalNumber": 28,
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1028",
+      "type": "open",
+      "question": "Wofür steht die Abkürzung GAMS?",
+      "modelAnswer": "Gefahr erkennen; Absperren / Absichern; Menschenrettung (wenn möglich); Spezialkräfte alarmieren",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 28",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 4,
+        "groups": [
+          {
+            "label": "Gefahr erkennen",
+            "accept": [
+              "gefahr"
+            ]
+          },
+          {
+            "label": "Absperren / Absichern",
+            "accept": [
+              "absperr",
+              "absicher"
+            ]
+          },
+          {
+            "label": "Menschenrettung (wenn möglich)",
+            "accept": [
+              "menschenrettung"
+            ]
+          },
+          {
+            "label": "Spezialkräfte alarmieren",
+            "accept": [
+              "spezialkraefte"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1029",
+      "number": 1029,
+      "originalNumber": 29,
+      "topic": "Taktische Zeit",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-taktische-zeit",
+      "type": "open",
+      "question": "Geben Sie folgende Zeitangabe als taktische Zeit in Langform an: Mittwoch, 03.03.2021, 17:13 Uhr",
+      "modelAnswer": "031713mar21",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 29",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "exact",
+        "label": "031713mar21",
+        "accept": [
+          "031713mar21"
+        ]
+      }
+    },
+    {
+      "id": "q1030",
+      "number": 1030,
+      "originalNumber": 30,
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1030",
+      "type": "open",
+      "question": "Wie lauten die fünf Grundsätze der taktischen Führung?",
+      "modelAnswer": "Jede Einsatzkraft hat eine Führungskraft; Der Führungsanspruch besteht ununterbrochen; Führung ist unteilbar; DRK-Helfer werden von DRK-Führungskräften geführt; Führung vollzieht sich lückenlos",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 30",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 5,
+        "groups": [
+          {
+            "label": "Jede Einsatzkraft hat eine Führungskraft",
+            "accept": [
+              "jede einsatzkraft",
+              "eine fuehrungskraft"
+            ]
+          },
+          {
+            "label": "Der Führungsanspruch besteht ununterbrochen",
+            "accept": [
+              "ununterbrochen"
+            ]
+          },
+          {
+            "label": "Führung ist unteilbar",
+            "accept": [
+              "unteilbar"
+            ]
+          },
+          {
+            "label": "DRK-Helfer werden von DRK-Führungskräften geführt",
+            "accept": [
+              "drk helfer",
+              "drk fuehrungskr"
+            ]
+          },
+          {
+            "label": "Führung vollzieht sich lückenlos",
+            "accept": [
+              "lueckenlos"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1031",
+      "number": 1031,
+      "originalNumber": 31,
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1031",
+      "type": "open",
+      "question": "Woraus bildet sich der Einsatzwert einer Einheit oder Gruppe?",
+      "modelAnswer": "personelle Stärke; materielle Stärke; Ausbildungsstand",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 31",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "personelle Stärke",
+            "accept": [
+              "personell"
+            ]
+          },
+          {
+            "label": "materielle Stärke",
+            "accept": [
+              "materiell"
+            ]
+          },
+          {
+            "label": "Ausbildungsstand",
+            "accept": [
+              "ausbildung"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1032",
+      "number": 1032,
+      "originalNumber": 32,
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1032",
+      "type": "multiple-choice",
+      "question": "Welche Aussagen treffen zu?",
+      "modelAnswer": "Führung ist die Einflussnahme auf Entscheidungen und Verhalten anderer Menschen",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 32",
+      "sourceStatus": "needs-current-verification",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Führung ist die Einflussnahme auf Entscheidungen und Verhalten anderer Menschen",
+        "Leitung dient dem Zweck, aufgabenbezogene Ziele zu verwirklichen",
+        "Führung ist das gesamtverantwortliche Handeln für eine Einsatzstelle und die dort eingesetzten Kräfte"
+      ],
+      "correctAnswers": [
+        "Führung ist die Einflussnahme auf Entscheidungen und Verhalten anderer Menschen"
+      ],
+      "verificationNote": "Die Auswertung zeigt nur „Falsch“ für die dritte Aussage. Lösung laut Fragenkatalog; ob auch die zweite Aussage zutrifft, ist nicht belegt"
+    },
+    {
+      "id": "q1033",
+      "number": 1033,
+      "originalNumber": 33,
+      "topic": "Führungsmittel",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1033",
+      "type": "open",
+      "question": "Welche Gruppen von Führungs- und Dokumentationsmitteln kennen Sie?",
+      "modelAnswer": "Informationsgewinnung; Informationsverarbeitung; Informationsübertragung",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 33",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "Informationsgewinnung",
+            "accept": [
+              "gewinnung"
+            ]
+          },
+          {
+            "label": "Informationsverarbeitung",
+            "accept": [
+              "verarbeitung"
+            ]
+          },
+          {
+            "label": "Informationsübertragung",
+            "accept": [
+              "uebertragung"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1034",
+      "number": 1034,
+      "originalNumber": 34,
+      "topic": "Bahnanlagen",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1034",
+      "type": "open",
+      "question": "Was ist beim Betreten von Bahnanlagen (z. B. Gleisen) zu beachten?",
+      "modelAnswer": "Sperrung der Gleise; Abschaltung der Oberleitung; Erdung der Oberleitung; Freigabe durch DB-Notfallmanager",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 34",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 4,
+        "groups": [
+          {
+            "label": "Sperrung der Gleise",
+            "accept": [
+              "sperr"
+            ]
+          },
+          {
+            "label": "Abschaltung der Oberleitung",
+            "accept": [
+              "abschalt"
+            ]
+          },
+          {
+            "label": "Erdung der Oberleitung",
+            "accept": [
+              "erdung",
+              "erden"
+            ]
+          },
+          {
+            "label": "Freigabe durch DB-Notfallmanager",
+            "accept": [
+              "notfallmanager",
+              "freigabe"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1035",
+      "number": 1035,
+      "originalNumber": 35,
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1035",
+      "type": "ordering",
+      "question": "Ordnen Sie die Bestandteile des Führungskreislaufs den Ziffern 1–6 im Schaubild zu (Element 1 oben).",
+      "modelAnswer": "Lage/Auftrag → Lagefeststellung: Erkundung/Kontrolle → Planung → Befehlsgebung → Beurteilung → Entschluss",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 35",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "correctAnswers": [
+        "Lage/Auftrag",
+        "Lagefeststellung: Erkundung/Kontrolle",
+        "Planung",
+        "Befehlsgebung",
+        "Beurteilung",
+        "Entschluss"
+      ],
+      "imagePath": "assets/forms/fuehrungskreislauf.svg",
+      "explanation": "Schaubild nachgezeichnet nach der Forms-Auswertung (Ziffernpositionen)"
+    },
+    {
+      "id": "q1036",
+      "number": 1036,
+      "originalNumber": 36,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q1036",
+      "type": "image",
+      "question": "Wofür steht das folgende taktische Zeichen?",
+      "modelAnswer": "Zugführer einer Einsatzeinheit des Deutschen Roten Kreuzes",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 36",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Zugführer einer Einsatzeinheit des Deutschen Roten Kreuzes",
+        "Gruppenführer einer Schnell-Einsatz-Gruppe des Deutschen Roten Kreuzes",
+        "Gruppenführer einer Betreuungsgruppe des Deutschen Roten Kreuzes",
+        "Beauftragter für den Katastrophenschutz"
+      ],
+      "correctAnswers": [
+        "Zugführer einer Einsatzeinheit des Deutschen Roten Kreuzes"
+      ],
+      "imagePath": "assets/forms/zeichen-zugfuehrer-ee-drk.svg",
+      "explanation": "Zeichen nachgezeichnet nach der Abbildung in der Forms-Auswertung"
+    },
+    {
+      "id": "q1037",
+      "number": 1037,
+      "originalNumber": 37,
+      "topic": "Befehlsgebung",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1037",
+      "type": "open",
+      "question": "Woraus besteht mindestens ein Befehl?",
+      "modelAnswer": "Lösung offen – siehe Hinweis",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 37",
+      "sourceStatus": "needs-current-verification",
+      "tags": [
+        "original-2025",
+        "loesung-offen"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "offeneOptionen": [
+        "Mittel",
+        "Auftrag",
+        "Einheit",
+        "Ziel",
+        "Weg"
+      ],
+      "verificationNote": "Die Auswertung wertet „Auftrag + Einheit + Ziel“ als FALSCH – die Musterlösung im Markdown-Katalog ist damit widerlegt. Richtige Lösung beim Lehrgang erfragen und in scripts/forms-src.py eintragen"
+    },
+    {
+      "id": "q1038",
+      "number": 1038,
+      "originalNumber": 38,
+      "topic": "KFZ-Marsch",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1038",
+      "type": "open",
+      "question": "Welche farbigen Flaggen kommen bei einem Kfz-Marsch zum Einsatz und wie ist ihre Bedeutung?",
+      "modelAnswer": "Lösung offen – siehe Hinweis",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 38",
+      "sourceStatus": "needs-current-verification",
+      "tags": [
+        "original-2025",
+        "loesung-offen"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "offeneOptionen": [
+        "Grün = Letztes Fahrzeug (Schließender)",
+        "Blau = Erstes bis vorletztes Fahrzeug",
+        "Gelb = Liegengebliebenes Fahrzeug"
+      ],
+      "verificationNote": "Alle drei Optionen gewählt wurde als FALSCH gewertet – mindestens eine Aussage trifft nicht zu. Richtige Lösung beim Lehrgang erfragen"
+    },
+    {
+      "id": "q1039",
+      "number": 1039,
+      "originalNumber": 39,
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1039",
+      "type": "open",
+      "question": "Welche Verbindungswege existieren zwischen Zugführer und zwei untergeordneten Gruppenführern?",
+      "modelAnswer": "Befehle; Meldungen; Querverbindungen",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 39",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "Befehle",
+            "accept": [
+              "befehl"
+            ]
+          },
+          {
+            "label": "Meldungen",
+            "accept": [
+              "meldung"
+            ]
+          },
+          {
+            "label": "Querverbindungen",
+            "accept": [
+              "querverbindung"
+            ]
+          }
+        ]
+      },
+      "imagePath": "assets/forms/verbindungswege.svg",
+      "explanation": "Schaubild nachgezeichnet nach der Forms-Auswertung"
+    },
+    {
+      "id": "q1040",
+      "number": 1040,
+      "originalNumber": 40,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q1040",
+      "type": "single-choice",
+      "question": "Welche Grundfarbe steht für die Führung im taktischen Zeichen?",
+      "modelAnswer": "Gelb",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 40 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Gelb",
+        "Weiß",
+        "Braun",
+        "Orange",
+        "Blau"
+      ],
+      "correctAnswers": [
+        "Gelb"
+      ]
+    },
+    {
+      "id": "q1041",
+      "number": 1041,
+      "originalNumber": 41,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1041",
+      "type": "single-choice",
+      "question": "Welche Stärke hat eine SEG Behandlung nach HiK-Konzept 3.0?",
+      "modelAnswer": "0/1/11/12",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 41 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "0/1/11/12",
+        "1/1/10/12",
+        "1/1/4/6",
+        "0/1/5/6"
+      ],
+      "correctAnswers": [
+        "0/1/11/12"
+      ]
+    },
+    {
+      "id": "q1042",
+      "number": 1042,
+      "originalNumber": 42,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1042",
+      "type": "single-choice",
+      "question": "Welche Stärke hat ein Katastrophenschutzmodul Führung nach HiK-Konzept 3.0?",
+      "modelAnswer": "1/1/2/4",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 42",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "0/1/5/6",
+        "1/1/2/4",
+        "0/1/8/9",
+        "1/1/4/6"
+      ],
+      "correctAnswers": [
+        "1/1/2/4"
+      ]
+    },
+    {
+      "id": "q1043",
+      "number": 1043,
+      "originalNumber": 43,
+      "topic": "Dienststellungsabzeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q1043",
+      "type": "open",
+      "question": "Welches ist das Dienststellungsabzeichen für einen berufenen Zugtruppführer?",
+      "modelAnswer": "Lösung offen – siehe Hinweis",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 43",
+      "sourceStatus": "needs-current-verification",
+      "tags": [
+        "original-2025",
+        "loesung-offen"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "verificationNote": "Antwortoptionen sind Fotos (in der Auswertung abgeschnitten). Der Katalog nennt „Option 4, vier blaue Sterne“ – im Ausschnitt ist bei Option 4 nur ein Stern sichtbar. Bilder einfügen und Lösung bestätigen"
+    },
+    {
+      "id": "q1044",
+      "number": 1044,
+      "originalNumber": 44,
+      "topic": "Einsatznachbesprechung",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q1044",
+      "type": "open",
+      "question": "Begründen Sie die Notwendigkeit von Einsatznachbesprechungen.",
+      "modelAnswer": "Mindestens 3 von: Einsatzverlauf; Verbesserung; Optimierung; PSNV; Verarbeitung",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 44",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "Einsatzverlauf",
+            "accept": [
+              "Einsatzverlauf"
+            ]
+          },
+          {
+            "label": "Verbesserung",
+            "accept": [
+              "verbesser"
+            ]
+          },
+          {
+            "label": "Optimierung",
+            "accept": [
+              "optimier"
+            ]
+          },
+          {
+            "label": "PSNV",
+            "accept": [
+              "PSNV"
+            ]
+          },
+          {
+            "label": "Verarbeitung",
+            "accept": [
+              "verarbeit"
+            ]
+          }
+        ]
+      },
+      "explanation": "Die Forms-Frage nennt keine Mindestanzahl; die App verlangt 3 der 5 Begriffe"
+    },
+    {
+      "id": "q1045",
+      "number": 1045,
+      "originalNumber": 45,
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1045",
+      "type": "multiple-choice",
+      "question": "Welche Fahrzeuge gehören laut HiK-Konzept 3.0 zur SEG Behandlung? (Beachte Antwortmöglichkeiten zu EGF/MTF)",
+      "modelAnswer": "GW-Sanität; 2x EGF/MTF",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 45 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "1x EGF/MTF",
+        "RTW",
+        "GW-Sanität",
+        "2x EGF/MTF",
+        "KdoW"
+      ],
+      "correctAnswers": [
+        "GW-Sanität",
+        "2x EGF/MTF"
+      ]
+    },
+    {
+      "id": "q1046",
+      "number": 1046,
+      "originalNumber": 46,
+      "topic": "KFZ-Marsch",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1046",
+      "type": "open",
+      "question": "Welche Ausstattung sollte in einem Einsatzfahrzeug während des Kfz-Marschs griffbereit verfügbar sein?",
+      "modelAnswer": "Gelbe Flagge; Warnweste; Winkerkelle",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 46",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 3,
+        "groups": [
+          {
+            "label": "Gelbe Flagge",
+            "accept": [
+              "gelbe flagge"
+            ]
+          },
+          {
+            "label": "Warnweste",
+            "accept": [
+              "Warnweste"
+            ]
+          },
+          {
+            "label": "Winkerkelle",
+            "accept": [
+              "kelle"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1047",
+      "number": 1047,
+      "originalNumber": 47,
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-sign-massnahme",
+      "type": "image",
+      "question": "Wofür steht das folgende Grundzeichen?",
+      "modelAnswer": "Maßnahme",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 47 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Gebiet",
+        "Maßnahme",
+        "Person",
+        "Stelle",
+        "Gefahr"
+      ],
+      "correctAnswers": [
+        "Maßnahme"
+      ],
+      "imagePath": "assets/signs/massnahme.svg"
+    },
+    {
+      "id": "q1048",
+      "number": 1048,
+      "originalNumber": 48,
+      "topic": "Sicherheit",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1048",
+      "type": "single-choice",
+      "question": "Welches ist die Unfallursache Nr. 1 im Einsatz?",
+      "modelAnswer": "Menschliches Fehlverhalten",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 48",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "Defekte an Material und Gerät",
+        "Menschliches Fehlverhalten",
+        "Äußere Einflüsse"
+      ],
+      "correctAnswers": [
+        "Menschliches Fehlverhalten"
+      ]
+    },
+    {
+      "id": "q1049",
+      "number": 1049,
+      "originalNumber": 49,
+      "topic": "KFZ-Marsch",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1049",
+      "type": "open",
+      "question": "Wofür steht die Abkürzung WOLKE zur Überprüfung eines Einsatzfahrzeugs im Vorfeld eines Einsatzes / Kfz-Marsches?",
+      "modelAnswer": "Wasser; Öl; Luft; Kraftstoff; Elektrizität / Elektrik",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 49",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "grading": {
+        "mode": "groups",
+        "required": 5,
+        "groups": [
+          {
+            "label": "Wasser",
+            "accept": [
+              "Wasser"
+            ]
+          },
+          {
+            "label": "Öl",
+            "accept": [
+              "oel"
+            ]
+          },
+          {
+            "label": "Luft",
+            "accept": [
+              "Luft"
+            ]
+          },
+          {
+            "label": "Kraftstoff",
+            "accept": [
+              "Kraftstoff"
+            ]
+          },
+          {
+            "label": "Elektrizität / Elektrik",
+            "accept": [
+              "elektri"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "q1050",
+      "number": 1050,
+      "originalNumber": 50,
+      "topic": "RAEP Gesundheit",
+      "domain": "RAEP",
+      "learningObjective": "lo-q1050",
+      "type": "single-choice",
+      "question": "Ab welcher Alarmstufe muss ein Vollalarm aller SEG-Einheiten einer kommunalen Gebietskörperschaft erfolgen?",
+      "modelAnswer": "4",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 50 (Lösung laut Fragenkatalog)",
+      "sourceStatus": "confirmed-original",
+      "tags": [
+        "original-2025"
+      ],
+      "difficulty": 3,
+      "weight": 4,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswers": [
+        "4"
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "level": "warn",
+      "id": null,
+      "message": "Identische Stärke 0/1/5/6 bei q1010, q1025 → Umkehrfrage „Stärke → Einheit“ hat mehrere richtige Antworten."
+    },
+    {
+      "level": "info",
+      "id": "q1001",
+      "message": "Frage 1: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1002",
+      "message": "Frage 2: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "warn",
+      "id": "q1003",
+      "message": "Frage 3: Die Auswertung zeigt nur „Falsch“ für „Führen ohne Führungsmittel“. Lösung aus der Führungsstufen-Tabelle der DV 100 abgeleitet – mit Lehrgangsunterlage bestätigen."
+    },
+    {
+      "level": "info",
+      "id": "q1004",
+      "message": "Frage 4: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1008",
+      "message": "Frage 8: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1014",
+      "message": "Frage 14: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1015",
+      "message": "Frage 15: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1016",
+      "message": "Frage 16: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1017",
+      "message": "Frage 17: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1018",
+      "message": "Frage 18: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1019",
+      "message": "Frage 19: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1020",
+      "message": "Frage 20: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1022",
+      "message": "Frage 22: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1024",
+      "message": "Frage 24: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1028",
+      "message": "Frage 28: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1029",
+      "message": "Frage 29: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1030",
+      "message": "Frage 30: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1031",
+      "message": "Frage 31: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "warn",
+      "id": "q1032",
+      "message": "Frage 32: Die Auswertung zeigt nur „Falsch“ für die dritte Aussage. Lösung laut Fragenkatalog; ob auch die zweite Aussage zutrifft, ist nicht belegt."
+    },
+    {
+      "level": "info",
+      "id": "q1035",
+      "message": "Frage 35: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "error",
+      "id": "q1037",
+      "message": "Frage 37: Musterlösung im Markdown („Auftrag + Einheit + Ziel.“) wird durch die Forms-Auswertung nicht gestützt. Die Auswertung wertet „Auftrag + Einheit + Ziel“ als FALSCH – die Musterlösung im Markdown-Katalog ist damit widerlegt. Richtige Lösung beim Lehrgang erfragen und in scripts/forms-src.py eintragen"
+    },
+    {
+      "level": "warn",
+      "id": "q1038",
+      "message": "Frage 38: Lösung offen. Alle drei Optionen gewählt wurde als FALSCH gewertet – mindestens eine Aussage trifft nicht zu. Richtige Lösung beim Lehrgang erfragen"
+    },
+    {
+      "level": "info",
+      "id": "q1039",
+      "message": "Frage 39: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "info",
+      "id": "q1042",
+      "message": "Frage 42: aus der Forms-Auswertung ergänzt (fehlte im Markdown-Katalog)."
+    },
+    {
+      "level": "error",
+      "id": "q1043",
+      "message": "Frage 43: Musterlösung im Markdown („Option 4 der Forms-Auswertung: das links oben dargestellte Abzeichen mit vier blauen Sternen.“) wird durch die Forms-Auswertung nicht gestützt. Antwortoptionen sind Fotos (in der Auswertung abgeschnitten). Der Katalog nennt „Option 4, vier blaue Sterne“ – im Ausschnitt ist bei Option 4 nur ein Stern sichtbar. Bilder einfügen und Lösung bestätigen"
+    }
+  ],
+  "formsSource": "Unterführer aller Fachdienste 2025 - Gesamtwiederholung auswertung.pdf (Microsoft-Forms-Auswertung)",
+  "generatedAt": "2026-11-20",
+  "derivedChoices": [
+    {
+      "topic": "Abkürzungen",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q44",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q44",
+      "id": "q44-mc",
+      "type": "multiple-choice",
+      "question": "Wofür stehen BHP, BTP, EA und EAL? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Einsatzabschnitt",
+        "Einsatzabschnittsleitung",
+        "Betreuungsplatz",
+        "Behandlungsplatz",
+        "Unterabschnittsleitung",
+        "Verbandsführer",
+        "Zugführer"
+      ],
+      "correctAnswers": [
+        "Einsatzabschnitt",
+        "Einsatzabschnittsleitung",
+        "Betreuungsplatz",
+        "Behandlungsplatz"
+      ],
+      "modelAnswer": "Behandlungsplatz, Betreuungsplatz, Einsatzabschnitt, Einsatzabschnittsleitung.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 44. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Abkürzungen",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q46",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q46",
+      "id": "q46-mc",
+      "type": "multiple-choice",
+      "question": "Wofür stehen UAL, UFü, VFü und ZFü? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Unterabschnittsleitung",
+        "Unterführer",
+        "Zugführer",
+        "Verbandsführer",
+        "Einsatzabschnitt",
+        "Betreuungsplatz",
+        "Organisatorischer Leiter"
+      ],
+      "correctAnswers": [
+        "Unterabschnittsleitung",
+        "Unterführer",
+        "Zugführer",
+        "Verbandsführer"
+      ],
+      "modelAnswer": "Unterabschnittsleitung, Unterführer, Verbandsführer und Zugführer.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 46. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Bereitstellungsraum",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q14",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q14",
+      "id": "q14-mc",
+      "type": "multiple-choice",
+      "question": "Nenne Kriterien für einen geeigneten Bereitstellungsraum. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Sanitäranlagen",
+        "Versorgung",
+        "getrennte befestigte Zu- und Abfahrt",
+        "Gute Verkehrsanbindung",
+        "dokumentieren",
+        "Kräfte erfassen/einweisen",
+        "Unterstellte Kräfte führen"
+      ],
+      "correctAnswers": [
+        "Sanitäranlagen",
+        "Versorgung",
+        "getrennte befestigte Zu- und Abfahrt",
+        "Gute Verkehrsanbindung"
+      ],
+      "modelAnswer": "Gute Verkehrsanbindung, ausreichende Fläche, frei von Gefahren, getrennte befestigte Zu- und Abfahrt, Telekommunikation, Räume/Witterungsschutz, Versorgung und Sanitäranlagen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 14. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Bereitstellungsraum",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q15",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q15",
+      "id": "q15-mc",
+      "type": "multiple-choice",
+      "question": "Welche Personal- und Führungsfunktionen braucht ein Bereitstellungsraum? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Kennzeichnung/Ausschilderung",
+        "Lotsenkräfte",
+        "Telekommunikationsverbindungen",
+        "Führungsstelle",
+        "Räume/Witterungsschutz",
+        "Marschbefehle umsetzen",
+        "Dienstbetrieb und Parkplatz regeln"
+      ],
+      "correctAnswers": [
+        "Kennzeichnung/Ausschilderung",
+        "Lotsenkräfte",
+        "Telekommunikationsverbindungen",
+        "Führungsstelle"
+      ],
+      "modelAnswer": "Kennzeichnung/Ausschilderung, Lotsenkräfte, Führungsstelle, Meldekopf und Telekommunikationsverbindungen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 15. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Bereitstellungsraum",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q16",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q16",
+      "id": "q16-mc",
+      "type": "multiple-choice",
+      "question": "Nenne Aufgaben des Leiters Bereitstellungsraum. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Marschbefehle umsetzen",
+        "Versorgung/Unterkunft/medizinische Versorgung/Bewachung regeln",
+        "Dienstbetrieb und Parkplatz regeln",
+        "Kräfte erfassen/einweisen",
+        "Gute Verkehrsanbindung",
+        "Sanitäranlagen",
+        "Telekommunikation"
+      ],
+      "correctAnswers": [
+        "Marschbefehle umsetzen",
+        "Versorgung/Unterkunft/medizinische Versorgung/Bewachung regeln",
+        "Dienstbetrieb und Parkplatz regeln",
+        "Kräfte erfassen/einweisen"
+      ],
+      "modelAnswer": "Unterstellte Kräfte führen, Dienstbetrieb und Parkplatz regeln, Kräfte erfassen/einweisen, Versorgung/Unterkunft/medizinische Versorgung/Bewachung regeln, Meldungen absetzen, Marschbefehle umsetzen und dokumentieren.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 16. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Besondere Einsatzlagen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q41",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q41",
+      "id": "q41-mc",
+      "type": "multiple-choice",
+      "question": "Welche Grundsätze gelten bei lebensbedrohlichen Einsatzlagen? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Nachsorge organisieren",
+        "enger Austausch mit Polizei",
+        "Eigenschutz",
+        "Polizeivorgaben beachten",
+        "am/nahe dem ersten Ereignisort",
+        "Gelb: teilsicher",
+        "Rot: unsicher/akute Gefahr"
+      ],
+      "correctAnswers": [
+        "Nachsorge organisieren",
+        "enger Austausch mit Polizei",
+        "Eigenschutz",
+        "Polizeivorgaben beachten"
+      ],
+      "modelAnswer": "Frühe Lageinformation, enger Austausch mit Polizei, Polizeivorgaben beachten, Eigenschutz, erst nach Befehl absitzen, Rettung nach Abstimmung/Freigabe, dynamische Lage beachten und Nachsorge organisieren.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 41. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Besondere Einsatzlagen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q42",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q42",
+      "id": "q42-mc",
+      "type": "multiple-choice",
+      "question": "Was ist ein Second Hit? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Zweitanschlag / zweiter Anschlag",
+        "am/nahe dem ersten Ereignisort",
+        "gezielt auf die dort konzentrierten Einsatzkräfte",
+        "Nachsorge organisieren",
+        "Eigenschutz",
+        "Grün: sicherer Bereich mit normalem Einsatzrisiko"
+      ],
+      "correctAnswers": [
+        "Zweitanschlag / zweiter Anschlag",
+        "am/nahe dem ersten Ereignisort",
+        "gezielt auf die dort konzentrierten Einsatzkräfte"
+      ],
+      "modelAnswer": "Ein Zweitanschlag am oder nahe dem ersten Ereignisort, nachdem sich dort Einsatzkräfte konzentriert haben.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 42. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Besondere Einsatzlagen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q43",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q43",
+      "id": "q43-mc",
+      "type": "multiple-choice",
+      "question": "Wie werden taktische Bereiche bei einer lebensbedrohlichen Einsatzlage vereinfacht unterschieden? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Gelb: teilsicher",
+        "Rot: unsicher/akute Gefahr",
+        "Grün: sicherer Bereich mit normalem Einsatzrisiko",
+        "Zweitanschlag / zweiter Anschlag",
+        "Eigenschutz",
+        "gezielt auf die dort konzentrierten Einsatzkräfte"
+      ],
+      "correctAnswers": [
+        "Gelb: teilsicher",
+        "Rot: unsicher/akute Gefahr",
+        "Grün: sicherer Bereich mit normalem Einsatzrisiko"
+      ],
+      "modelAnswer": "Rot: unsicher/akute Gefahr; Gelb: teilsicher; Grün: sicherer Bereich mit normalem Einsatzrisiko. Bereiche sind dynamisch und polizeiliche Festlegungen maßgeblich.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 43. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-befehlsschema",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q1",
+      "id": "q1-mc",
+      "type": "multiple-choice",
+      "question": "Nenne die fünf Hauptbestandteile des Befehlsschemas. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Auftrag",
+        "Durchführung",
+        "Führung und Verbindung",
+        "Versorgung",
+        "S1 Personal/Innerer Dienst",
+        "Wirkung",
+        "Befehlsgebung"
+      ],
+      "correctAnswers": [
+        "Auftrag",
+        "Durchführung",
+        "Führung und Verbindung",
+        "Versorgung"
+      ],
+      "modelAnswer": "Lage; Auftrag; Durchführung; Versorgung; Führung und Verbindung.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 1. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q2",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q2",
+      "id": "q2-mc",
+      "type": "multiple-choice",
+      "question": "Was gehört zur allgemeinen Lage? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Wirkung",
+        "Umfang",
+        "Witterung",
+        "Ereignis",
+        "S1 Personal/Innerer Dienst",
+        "Einsatzabschnitte",
+        "S2 Lage"
+      ],
+      "correctAnswers": [
+        "Wirkung",
+        "Umfang",
+        "Witterung",
+        "Ereignis"
+      ],
+      "modelAnswer": "Ereignis, Art, Ort, Umfang, Wirkung, Witterung und Gefahren.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 2. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q3",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q3",
+      "id": "q3-mc",
+      "type": "multiple-choice",
+      "question": "Was gehört zur eigenen Lage? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Unterstellung",
+        "Einsatzmittel",
+        "Einsatzkräfte",
+        "Versorgung",
+        "S6 Information und Kommunikation",
+        "Absicht"
+      ],
+      "correctAnswers": [
+        "Unterstellung",
+        "Einsatzmittel",
+        "Einsatzkräfte"
+      ],
+      "modelAnswer": "Einsatzkräfte, Einsatzmittel und Unterstellung.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 3. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q4",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q4",
+      "id": "q4-mc",
+      "type": "multiple-choice",
+      "question": "Was gehört zum Punkt Durchführung? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Einsatzabschnitte",
+        "Zusammenarbeit",
+        "Zeitvorgaben",
+        "Einzelaufträge",
+        "Witterung",
+        "medizinische Versorgung",
+        "Betriebsstoffe"
+      ],
+      "correctAnswers": [
+        "Einsatzabschnitte",
+        "Zusammenarbeit",
+        "Zeitvorgaben",
+        "Einzelaufträge"
+      ],
+      "modelAnswer": "Absicht, Einzelaufträge, Einsatzabschnitte, Zusammenarbeit, Zeitvorgaben und Schutzmaßnahmen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 4. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q5",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q5",
+      "id": "q5-mc",
+      "type": "multiple-choice",
+      "question": "Was gehört zum Punkt Versorgung? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Logistik",
+        "Materialerhaltung",
+        "Verpflegung",
+        "medizinische Versorgung",
+        "Zeitvorgaben",
+        "Planung mit Beurteilung und Entschluss",
+        "Verbindungen"
+      ],
+      "correctAnswers": [
+        "Logistik",
+        "Materialerhaltung",
+        "Verpflegung",
+        "medizinische Versorgung"
+      ],
+      "modelAnswer": "Verpflegung, Betriebsstoffe, Materialerhaltung, medizinische Versorgung und Logistik.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 5. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q6",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q6",
+      "id": "q6-mc",
+      "type": "multiple-choice",
+      "question": "Was gehört zu Führung und Verbindung? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Meldeköpfe",
+        "Verbindungen",
+        "Standort des Führenden bzw. der zuständigen Stelle",
+        "Befehlsstellen",
+        "S1 Personal/Innerer Dienst",
+        "Ereignis",
+        "Führungsvorgang"
+      ],
+      "correctAnswers": [
+        "Meldeköpfe",
+        "Verbindungen",
+        "Standort des Führenden bzw. der zuständigen Stelle",
+        "Befehlsstellen"
+      ],
+      "modelAnswer": "Verbindungen, Meldeköpfe, Befehlsstellen und Standort des Führenden bzw. der zuständigen Stelle.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 6. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q7",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q7",
+      "id": "q7-mc",
+      "type": "multiple-choice",
+      "question": "Welche Aufgaben haben S 1 bis S 6? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "S4 Versorgung",
+        "S3 Einsatz",
+        "S1 Personal/Innerer Dienst",
+        "S6 Information und Kommunikation",
+        "Meldeköpfe",
+        "Verbindungen",
+        "Witterung"
+      ],
+      "correctAnswers": [
+        "S4 Versorgung",
+        "S3 Einsatz",
+        "S1 Personal/Innerer Dienst",
+        "S6 Information und Kommunikation"
+      ],
+      "modelAnswer": "S1 Personal/Innerer Dienst; S2 Lage; S3 Einsatz; S4 Versorgung; S5 Presse- und Medienarbeit; S6 Information und Kommunikation.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 7. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q8",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q8",
+      "id": "q8-mc",
+      "type": "multiple-choice",
+      "question": "Nenne die Schritte des Führungsvorgangs. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Planung mit Beurteilung und Entschluss",
+        "Lagefeststellung bzw. Erkundung und Kontrolle",
+        "Befehlsgebung",
+        "Betriebsstoffe",
+        "Ereignis",
+        "S3 Einsatz"
+      ],
+      "correctAnswers": [
+        "Planung mit Beurteilung und Entschluss",
+        "Lagefeststellung bzw. Erkundung und Kontrolle",
+        "Befehlsgebung"
+      ],
+      "modelAnswer": "Lagefeststellung bzw. Erkundung und Kontrolle; Planung mit Beurteilung und Entschluss; Befehlsgebung. Der Vorgang ist ein Kreislauf.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 8. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q35",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q35",
+      "id": "q35-mc",
+      "type": "multiple-choice",
+      "question": "Welche Grunddaten gehören in ein Einsatzprotokoll? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Lage bei Eintreffen",
+        "Einsatzende",
+        "Maßnahmen",
+        "Einsatzort",
+        "Gefährdungen/Erschwernisse",
+        "Ablösung",
+        "Kurzbericht"
+      ],
+      "correctAnswers": [
+        "Lage bei Eintreffen",
+        "Einsatzende",
+        "Maßnahmen",
+        "Einsatzort"
+      ],
+      "modelAnswer": "Einsatzort, Datum, Einsatznummer, Alarmierung, verantwortliche Führung, Zeiten, Lage bei Eintreffen, Kräfte, Betroffene, Maßnahmen und Einsatzende.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 35. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q36",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q36",
+      "id": "q36-mc",
+      "type": "multiple-choice",
+      "question": "Was wird im Einsatztagebuch dokumentiert? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Ereignisse bzw. Lage",
+        "Anlagen",
+        "Bemerkungen",
+        "Fortlaufend Datum/Uhrzeit",
+        "Zeiten",
+        "Besonderheiten",
+        "Kräfte"
+      ],
+      "correctAnswers": [
+        "Ereignisse bzw. Lage",
+        "Anlagen",
+        "Bemerkungen",
+        "Fortlaufend Datum/Uhrzeit"
+      ],
+      "modelAnswer": "Fortlaufend Datum/Uhrzeit, Ereignisse bzw. Lage, Maßnahmen/Befehle, Ein- und Ausgang sowie Bemerkungen und Anlagen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 36. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-fahrzeugregistrierung",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q37",
+      "id": "q37-mc",
+      "type": "multiple-choice",
+      "question": "Welche Daten führt ein Rettungsmittelhalteplatz? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Herkunft",
+        "Fahrzeugtyp",
+        "Eintreffen",
+        "Stärke",
+        "Fortlaufend Datum/Uhrzeit",
+        "Alarmierung",
+        "Einsatznummer"
+      ],
+      "correctAnswers": [
+        "Herkunft",
+        "Fahrzeugtyp",
+        "Eintreffen",
+        "Stärke"
+      ],
+      "modelAnswer": "Fahrzeugtyp, Herkunft, Stärke, Erreichbarkeit/Funkrufname, Eintreffen, Abfahrt, Ziel und Besonderheiten.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 37. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Dokumentation",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q38",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q38",
+      "id": "q38-mc",
+      "type": "multiple-choice",
+      "question": "Welche Punkte gehören in eine Abschlussmeldung? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Ablösung",
+        "Verfassung der Kräfte",
+        "Gefährdungen/Erschwernisse",
+        "Kurzbericht",
+        "Fortlaufend Datum/Uhrzeit",
+        "Abfahrt",
+        "verantwortliche Führung"
+      ],
+      "correctAnswers": [
+        "Ablösung",
+        "Verfassung der Kräfte",
+        "Gefährdungen/Erschwernisse",
+        "Kurzbericht"
+      ],
+      "modelAnswer": "Kurzbericht, Situation bzw. Ausfälle, Gefährdungen/Erschwernisse, Verbleib/Zustand/Erfahrungen, Ablösung, Verfassung der Kräfte sowie Zustand der Ausstattung.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 38. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Einheiten und Stärke",
+      "domain": "Einheiten & Stärken",
+      "learningObjective": "lo-q18",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q18",
+      "id": "q18-mc",
+      "type": "multiple-choice",
+      "question": "Erläutere 1/1/8/10. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "1 Führer",
+        "insgesamt 10 Personen",
+        "1 Unterführer",
+        "8 Helfer",
+        "Erdung der Oberleitung",
+        "Rettungsmittelhalteplatz",
+        "Wasserfahrzeug"
+      ],
+      "correctAnswers": [
+        "1 Führer",
+        "insgesamt 10 Personen",
+        "1 Unterführer",
+        "8 Helfer"
+      ],
+      "modelAnswer": "1 Führer, 1 Unterführer, 8 Helfer, insgesamt 10 Personen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 18. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q27",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "difficulty": 3,
+      "weight": 3,
+      "verificationNote": "Aktualität laut Katalog vor dem Lehrgang bestätigen",
+      "derivedFrom": "q27",
+      "id": "q27-mc",
+      "type": "multiple-choice",
+      "question": "Ordne GW-San, GW-Beh, GW-Betr, GW-Verpfl und GW-TeSi zu. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Betreuung",
+        "Technik",
+        "Verpflegung",
+        "Sicherheit",
+        "Ziel",
+        "Stärke",
+        "Erreichbarkeit/Funkrufname"
+      ],
+      "correctAnswers": [
+        "Betreuung",
+        "Technik",
+        "Verpflegung",
+        "Sicherheit"
+      ],
+      "modelAnswer": "Gerätewagen Sanitätsdienst (61), Behandlung (62), Betreuung (63), Verpflegung (64), Technik und Sicherheit (65). Regionale Funkrufnamenregelung aktuell bestätigen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 27. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q28",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "difficulty": 3,
+      "weight": 3,
+      "verificationNote": "Fahrzeugkennzahlen aus hinterlegter Merkkarte (regional)",
+      "derivedFrom": "q28",
+      "id": "q28-mc",
+      "type": "multiple-choice",
+      "question": "Ordne NAW, NEF, RTW, KTW B und KTW zu. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Krankentransportwagen Typ B 84",
+        "Krankentransportwagen 85, gemäß hinterlegter Merkkarte",
+        "Notarztwagen 81",
+        "Notarzteinsatzfahrzeug 82",
+        "Sicherheit",
+        "Behandlung",
+        "Gerätewagen Sanitätsdienst"
+      ],
+      "correctAnswers": [
+        "Krankentransportwagen Typ B 84",
+        "Krankentransportwagen 85, gemäß hinterlegter Merkkarte",
+        "Notarztwagen 81",
+        "Notarzteinsatzfahrzeug 82"
+      ],
+      "modelAnswer": "Notarztwagen 81; Notarzteinsatzfahrzeug 82; Rettungswagen 83; Krankentransportwagen Typ B 84; Krankentransportwagen 85, gemäß hinterlegter Merkkarte.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 28. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Fahrzeuge",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-fahrzeugregistrierung",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q29",
+      "id": "q29-mc",
+      "type": "multiple-choice",
+      "question": "Welche Informationen gehören in eine Fahrzeugregistrierung? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Besonderheiten",
+        "Erreichbarkeit/Funkrufname",
+        "Abfahrt",
+        "Stärke",
+        "Mannschaftstransportwagen",
+        "Technik",
+        "Rettungswagen 83"
+      ],
+      "correctAnswers": [
+        "Besonderheiten",
+        "Erreichbarkeit/Funkrufname",
+        "Abfahrt",
+        "Stärke"
+      ],
+      "modelAnswer": "Fahrzeugtyp, Herkunft/Einheit, Stärke, Erreichbarkeit/Funkrufname, Eintreffen, Abfahrt, Ziel und Besonderheiten.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 29. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Funk",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q47",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Aktualität laut Katalog vor dem Lehrgang bestätigen",
+      "derivedFrom": "q47",
+      "id": "q47-mc",
+      "type": "multiple-choice",
+      "question": "Wie ist ein Funkrufname grundsätzlich zusammengesetzt? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Kennwort/Einsatzbereich bzw. Organisation",
+        "Ordnungszahl",
+        "Fahrzeugart/Kennzahl",
+        "Standort",
+        "sachlich",
+        "Funkdisziplin einhalten: kurz",
+        "den vorgesehenen Meldeweg benutzen"
+      ],
+      "correctAnswers": [
+        "Kennwort/Einsatzbereich bzw. Organisation",
+        "Ordnungszahl",
+        "Fahrzeugart/Kennzahl",
+        "Standort"
+      ],
+      "modelAnswer": "Kennwort/Einsatzbereich bzw. Organisation, Standort, Fahrzeugart/Kennzahl und Ordnungszahl. Konkrete Regeln regional aktuell bestätigen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 47. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Funk",
+      "domain": "Funk & Abkürzungen",
+      "learningObjective": "lo-q48",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q48",
+      "id": "q48-mc",
+      "type": "multiple-choice",
+      "question": "Nenne einen wichtigen Grundsatz des Sprechfunks. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "den vorgesehenen Meldeweg benutzen",
+        "sachlich",
+        "eindeutig",
+        "Funkdisziplin einhalten: kurz",
+        "Ordnungszahl",
+        "Fahrzeugart/Kennzahl",
+        "Kennwort/Einsatzbereich bzw. Organisation"
+      ],
+      "correctAnswers": [
+        "den vorgesehenen Meldeweg benutzen",
+        "sachlich",
+        "eindeutig",
+        "Funkdisziplin einhalten: kurz"
+      ],
+      "modelAnswer": "Funkdisziplin einhalten: kurz, eindeutig, sachlich und den vorgesehenen Meldeweg benutzen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 48. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Führungspraxis",
+      "domain": "Führung",
+      "learningObjective": "lo-q62",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q62",
+      "id": "q62-mc",
+      "type": "multiple-choice",
+      "question": "Was tust du bei einer unklaren Prüfungsfrage oder einem Blackout? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "mit sicheren Kernpunkten beginnen",
+        "Beispiel geben. Rückfrage stellen",
+        "Zweck nennen",
+        "laut geordnet denken",
+        "Zeit",
+        "Raum",
+        "Zuständigkeit"
+      ],
+      "correctAnswers": [
+        "mit sicheren Kernpunkten beginnen",
+        "Beispiel geben. Rückfrage stellen",
+        "Zweck nennen",
+        "laut geordnet denken"
+      ],
+      "modelAnswer": "Kurz strukturieren: Begriff definieren, Zweck nennen, Beispiel geben. Rückfrage stellen, laut geordnet denken und mit sicheren Kernpunkten beginnen.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 62. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q39",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q39",
+      "id": "q39-mc",
+      "type": "multiple-choice",
+      "question": "Nenne das ACE-/Gefahrenschema aus der Taschenkarte. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Erkrankung, Explosion, Elektrizität, Einsturz",
+        "chemische Stoffe",
+        "Atemgift, Angst, Ausbreitung, atomare Strahlung",
+        "Absturz",
+        "Einsatzkräfte dürfen sich nicht unvertretbar selbst gefährden",
+        "Absperren / Absichern"
+      ],
+      "correctAnswers": [
+        "Erkrankung, Explosion, Elektrizität, Einsturz",
+        "chemische Stoffe",
+        "Atemgift, Angst, Ausbreitung, atomare Strahlung"
+      ],
+      "modelAnswer": "Atemgift, Angst, Ausbreitung, atomare Strahlung; chemische Stoffe; Erkrankung, Explosion, Elektrizität, Einsturz.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 39. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Grundbegriffe",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q13",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q13",
+      "id": "q13-mc",
+      "type": "multiple-choice",
+      "question": "Was ist ein Bereitstellungsraum? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Ein festgelegter Bereich",
+        "erfasst",
+        "von dort koordiniert eingesetzt werden",
+        "in dem nachrückende Kräfte und Einsatzmittel gesammelt",
+        "Atemgifte",
+        "Zweitanschlag / zweiter Anschlag",
+        "Behandlungsplatz"
+      ],
+      "correctAnswers": [
+        "Ein festgelegter Bereich",
+        "erfasst",
+        "von dort koordiniert eingesetzt werden",
+        "in dem nachrückende Kräfte und Einsatzmittel gesammelt"
+      ],
+      "modelAnswer": "Ein festgelegter Bereich, in dem nachrückende Kräfte und Einsatzmittel gesammelt, erfasst, organisiert und von dort koordiniert eingesetzt werden.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 13. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q31",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q31",
+      "id": "q31-mc",
+      "type": "multiple-choice",
+      "question": "Welche ersten Führungsmaßnahmen nennt die Checkliste für das erste Fahrzeug? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "erkunden",
+        "Funk/Schreiber bestimmen",
+        "an Leitstelle melden",
+        "Überblick gewinnen",
+        "gegebenenfalls benötigte Nachalarmierung",
+        "Lage und Maßnahmen nachvollziehbar darstellen",
+        "Verletztensammelstelle"
+      ],
+      "correctAnswers": [
+        "erkunden",
+        "Funk/Schreiber bestimmen",
+        "an Leitstelle melden",
+        "Überblick gewinnen"
+      ],
+      "modelAnswer": "Als Einsatzleiter kennzeichnen, Funk/Schreiber bestimmen, Überblick gewinnen, Kontakt zu Feuerwehr/Polizei, erkunden und an Leitstelle melden.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 31. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q32",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q32",
+      "id": "q32-mc",
+      "type": "multiple-choice",
+      "question": "Welche räumlichen Festlegungen sind früh zu treffen? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Bereitstellungsraum/Meldestelle",
+        "Behandlungs- bzw. Triageplatz",
+        "Verletztensammelstelle",
+        "Zufahrtswege",
+        "Gefahrenbereich erkennen und Selbstschutz gewährleisten",
+        "Betroffenenzahlen",
+        "Überblick gewinnen"
+      ],
+      "correctAnswers": [
+        "Bereitstellungsraum/Meldestelle",
+        "Behandlungs- bzw. Triageplatz",
+        "Verletztensammelstelle",
+        "Zufahrtswege"
+      ],
+      "modelAnswer": "Zufahrtswege, Bereitstellungsraum/Meldestelle, Behandlungs- bzw. Triageplatz, Material-/Meldestelle und Verletztensammelstelle.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 32. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "MANV",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q34",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q34",
+      "id": "q34-mc",
+      "type": "multiple-choice",
+      "question": "Welche Angaben umfasst eine Rückmeldung zum Schadensraum? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Betroffenenzahlen",
+        "Ereignis",
+        "Zufahrtswege",
+        "besondere Gefahren",
+        "Verletztensammelstelle",
+        "Kontakt zu Feuerwehr/Polizei",
+        "erkunden"
+      ],
+      "correctAnswers": [
+        "Betroffenenzahlen",
+        "Ereignis",
+        "Zufahrtswege",
+        "besondere Gefahren"
+      ],
+      "modelAnswer": "Genauer Ort, Zufahrtswege, Ereignis, Standort BR/Melder, besondere Gefahren, Betroffenenzahlen und gegebenenfalls benötigte Nachalarmierung.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 34. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Medizinische Grundlagen",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-abcde",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q58",
+      "id": "q58-mc",
+      "type": "multiple-choice",
+      "question": "Was bedeutet ABCDE? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Circulation/Kreislauf",
+        "Umwelteinflüsse",
+        "Exposure/Entkleiden",
+        "Airway/Atemweg",
+        "persönliche Vorgeschichte",
+        "Symptome",
+        "Ereignisse vor dem Notfall"
+      ],
+      "correctAnswers": [
+        "Circulation/Kreislauf",
+        "Umwelteinflüsse",
+        "Exposure/Entkleiden",
+        "Airway/Atemweg"
+      ],
+      "modelAnswer": "Airway/Atemweg, Breathing/Atmung, Circulation/Kreislauf, Disability/neurologischer Status, Exposure/Entkleiden und Umwelteinflüsse.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 58. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Medizinische Grundlagen",
+      "domain": "MANV & Medizin",
+      "learningObjective": "lo-q59",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 2,
+      "weight": 2,
+      "derivedFrom": "q59",
+      "id": "q59-mc",
+      "type": "multiple-choice",
+      "question": "Was bedeutet SAMPLE? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "letzte Nahrungsaufnahme",
+        "Symptome",
+        "Allergien",
+        "Medikation",
+        "Disability/neurologischer Status",
+        "Breathing/Atmung",
+        "Airway/Atemweg"
+      ],
+      "correctAnswers": [
+        "letzte Nahrungsaufnahme",
+        "Symptome",
+        "Allergien",
+        "Medikation"
+      ],
+      "modelAnswer": "Symptome, Allergien, Medikation, persönliche Vorgeschichte, letzte Nahrungsaufnahme, Ereignisse vor dem Notfall.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 59. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Meldewesen",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q9",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q9",
+      "id": "q9-mc",
+      "type": "multiple-choice",
+      "question": "Nenne die sieben Punkte des Meldeschemas. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Wann eingetreten?",
+        "Wie ist die Lage?",
+        "Wer meldet?",
+        "Wie viele Betroffene?",
+        "Befehlsstellen",
+        "Auftrag",
+        "Logistik"
+      ],
+      "correctAnswers": [
+        "Wann eingetreten?",
+        "Wie ist die Lage?",
+        "Wer meldet?",
+        "Wie viele Betroffene?"
+      ],
+      "modelAnswer": "Wann eingetreten? Wo ist das Ereignis? Was ist geschehen? Wie ist die Lage? Wie viele Betroffene? Was wird getan? Wer meldet?",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 9. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q49",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q49",
+      "id": "q49-mc",
+      "type": "multiple-choice",
+      "question": "Welche Aussagen kann ein taktisches Zeichen enthalten? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Zusatzangaben",
+        "Organisation",
+        "Größenordnung",
+        "Fachaufgabe/Funktion",
+        "Behandlungsplatz",
+        "Gruppenführer",
+        "Taktische Formation"
+      ],
+      "correctAnswers": [
+        "Zusatzangaben",
+        "Organisation",
+        "Größenordnung",
+        "Fachaufgabe/Funktion"
+      ],
+      "modelAnswer": "Grundzeichen bzw. Art der Einheit/Stelle, Größenordnung, Fachaufgabe/Funktion, Organisation und Zusatzangaben.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 49. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q50",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "needs-current-verification",
+      "difficulty": 2,
+      "weight": 2,
+      "verificationNote": "Verweis auf maßgebliche DV 102; Zuordnung der Größenzeichen (Punkte/Striche) ist im Katalog unscharf formuliert; DV 102 kennt weitere Größenordnungen – vollständig gegen DV 102 prüfen",
+      "derivedFrom": "q50",
+      "id": "q50-mc",
+      "type": "multiple-choice",
+      "question": "Welche Größenzeichen stehen für Trupp, Gruppe und Zug? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "drei: Zug",
+        "zwei Kennzeichnungen: Gruppe",
+        "Ein Strich/Punktierung entsprechend DV 102: Trupp",
+        "Betroffene",
+        "Befehlsstelle",
+        "Landfahrzeug"
+      ],
+      "correctAnswers": [
+        "drei: Zug",
+        "zwei Kennzeichnungen: Gruppe",
+        "Ein Strich/Punktierung entsprechend DV 102: Trupp"
+      ],
+      "modelAnswer": "Ein Strich/Punktierung entsprechend DV 102: Trupp, zwei Kennzeichnungen: Gruppe, drei: Zug. In der App im Bildtraining üben; offizielle DV 102 ist maßgeblich.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 50. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q51",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q51",
+      "id": "q51-mc",
+      "type": "multiple-choice",
+      "question": "Nenne Grundzeichen aus der DV-102-Taschenkarte. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Gebäude",
+        "Taktische Formation",
+        "Wasserfahrzeug",
+        "Befehlsstelle",
+        "verletzte",
+        "zwei Kennzeichnungen: Gruppe",
+        "verschüttete"
+      ],
+      "correctAnswers": [
+        "Gebäude",
+        "Taktische Formation",
+        "Wasserfahrzeug",
+        "Befehlsstelle"
+      ],
+      "modelAnswer": "Taktische Formation, Befehlsstelle, Stelle/Einrichtung, ortsgebundene Stelle, Gebäude, Landfahrzeug, Abrollbehälter, Anhänger, Hubschrauber und Wasserfahrzeug.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 51. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q52",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q52",
+      "id": "q52-mc",
+      "type": "multiple-choice",
+      "question": "Nenne wichtige Einrichtungen/Stellen. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Hubschrauberlandeplatz",
+        "Patientenablage",
+        "Betreuungsplatz",
+        "Bereitstellungsraum",
+        "Wasserfahrzeug",
+        "Truppführer",
+        "Gruppenführer"
+      ],
+      "correctAnswers": [
+        "Hubschrauberlandeplatz",
+        "Patientenablage",
+        "Betreuungsplatz",
+        "Bereitstellungsraum"
+      ],
+      "modelAnswer": "Bereitstellungsraum, Rettungsmittelhalteplatz, Patientenablage, Anlaufstelle, Behandlungsplatz, Betreuungsplatz und Hubschrauberlandeplatz.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 52. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q53",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q53",
+      "id": "q53-mc",
+      "type": "multiple-choice",
+      "question": "Welche Personenzustände können taktisch dargestellt werden? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Betroffene",
+        "verschüttete",
+        "tote",
+        "vermisste",
+        "Behandlungsplatz",
+        "Bereitstellungsraum",
+        "Abrollbehälter"
+      ],
+      "correctAnswers": [
+        "Betroffene",
+        "verschüttete",
+        "tote",
+        "vermisste"
+      ],
+      "modelAnswer": "Betroffene, verletzte, tote, vermisste, verschüttete und gerettete Person.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 53. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Taktische Zeichen",
+      "domain": "Taktische Zeichen & Kennzeichnung",
+      "learningObjective": "lo-q54",
+      "source": "Vorhandener Lernkatalog / hinterlegte Lernunterlagen",
+      "sourceStatus": "confirmed-training-material",
+      "difficulty": 3,
+      "weight": 3,
+      "derivedFrom": "q54",
+      "id": "q54-mc",
+      "type": "multiple-choice",
+      "question": "Welche Führungsfunktionen können bei Einsatzkräften dargestellt werden? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Verbandsführer",
+        "Arzt",
+        "Person mit Sonderfunktion",
+        "Helfer",
+        "Befehlsstelle",
+        "Zusatzangaben",
+        "Behandlungsplatz"
+      ],
+      "correctAnswers": [
+        "Verbandsführer",
+        "Arzt",
+        "Person mit Sonderfunktion",
+        "Helfer"
+      ],
+      "modelAnswer": "Helfer, Truppführer, Gruppenführer, Zugführer, Verbandsführer, Arzt und Person mit Sonderfunktion.",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage 54. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1008",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 8",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1008",
+      "id": "q1008-mc",
+      "type": "multiple-choice",
+      "question": "Nennen Sie mindestens fünf Gefahren aus dem 5A-B-C-5E-Schema. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Ausbreitung",
+        "Brand",
+        "Absturz",
+        "Atomare Gefahren / Ionisierende Strahlung",
+        "Menschenrettung (wenn möglich)",
+        "Einsatzkräfte dürfen sich nicht unvertretbar selbst gefährden",
+        "Absperren / Absichern"
+      ],
+      "correctAnswers": [
+        "Ausbreitung",
+        "Brand",
+        "Absturz",
+        "Atomare Gefahren / Ionisierende Strahlung"
+      ],
+      "modelAnswer": "Mindestens 5 von: Atemgifte; Angstreaktion/Panik; Ausbreitung; Atomare Gefahren / Ionisierende Strahlung; Absturz; Brand; Chemische Gefahren; Explosion; Erkrankung / Verletzung; Elektrizität; Einsturz; Ertrinken / Wassergefahren",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 8. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "DV 100",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1014",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 14",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1014",
+      "id": "q1014-mc",
+      "type": "multiple-choice",
+      "question": "Welche drei Bestandteile gehören zum Führungssystem nach DV 100? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Führungsmittel",
+        "Führungsvorgang",
+        "Führungsorganisation",
+        "Lagefeststellung bzw. Erkundung und Kontrolle",
+        "Befehlsstellen",
+        "Zusammenarbeit"
+      ],
+      "correctAnswers": [
+        "Führungsmittel",
+        "Führungsvorgang",
+        "Führungsorganisation"
+      ],
+      "modelAnswer": "Führungsorganisation; Führungsvorgang; Führungsmittel",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 14. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Räume und Stellen",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1015",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 15",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1015",
+      "id": "q1015-mc",
+      "type": "multiple-choice",
+      "question": "Nennen Sie mindestens drei Räume außer der Patientenablage. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Anlaufstelle",
+        "Betreuungsstelle",
+        "Bereitstellungsraum",
+        "Betreuungsplatz",
+        "Versorgung",
+        "Rot: unsicher/akute Gefahr",
+        "Atemgift, Angst, Ausbreitung, atomare Strahlung"
+      ],
+      "correctAnswers": [
+        "Anlaufstelle",
+        "Betreuungsstelle",
+        "Bereitstellungsraum",
+        "Betreuungsplatz"
+      ],
+      "modelAnswer": "Mindestens 3 von: Behandlungsplatz; Bereitstellungsraum; Rettungsmittelhalteplatz; Betreuungsstelle; Anlaufstelle; Betreuungsplatz; Unterkunft",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 15. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Katastrophenschutz RLP",
+      "domain": "Recht & RLP-Konzepte",
+      "learningObjective": "lo-q1016",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 16",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1016",
+      "id": "q1016-mc",
+      "type": "multiple-choice",
+      "question": "Nennen Sie ein besonderes Konzept im rheinland-pfälzischen Katastrophenschutz. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Sonderalarm Rettungsdienst",
+        "Großraum-RTW (G-RTW)",
+        "Medikamentendepot",
+        "Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK)",
+        "RAEP (Rahmen-, Alarm- und Einsatzplan)",
+        "Ordnung der Bereitschaften",
+        "Disziplinar- und Beschwerdeordnung"
+      ],
+      "correctAnswers": [
+        "Sonderalarm Rettungsdienst",
+        "Großraum-RTW (G-RTW)",
+        "Medikamentendepot",
+        "Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK)"
+      ],
+      "modelAnswer": "Mindestens 1 von: Großraum-RTW (G-RTW); Medikamentendepot; Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK); Sonderalarm Rettungsdienst",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 16. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Rechtsgrundlagen",
+      "domain": "Recht & RLP-Konzepte",
+      "learningObjective": "lo-q1020",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 20",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1020",
+      "id": "q1020-mc",
+      "type": "multiple-choice",
+      "question": "Nennen Sie sechs rechtliche Grundlagen, welche für den Katastrophenschutz in Rheinland-Pfalz relevant sind. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Infektionsschutzgesetz (IfSG)",
+        "K-Vorschrift",
+        "Rettungsdienstgesetz RLP (RettDG)",
+        "Ordnung der Bereitschaften",
+        "Medikamentendepot",
+        "Großraum-RTW (G-RTW)",
+        "Sonderalarm Rettungsdienst"
+      ],
+      "correctAnswers": [
+        "Infektionsschutzgesetz (IfSG)",
+        "K-Vorschrift",
+        "Rettungsdienstgesetz RLP (RettDG)",
+        "Ordnung der Bereitschaften"
+      ],
+      "modelAnswer": "Mindestens 6 von: DV 100; LBKG (Brand- und Katastrophenschutzgesetz); K-Vorschrift; RAEP (Rahmen-, Alarm- und Einsatzplan); Rettungsdienstgesetz RLP (RettDG); Infektionsschutzgesetz (IfSG); Ordnung der Bereitschaften; Disziplinar- und Beschwerdeordnung; Straßenverkehrsordnung (StVO); Straßenverkehrs-Zulassungs-Ordnung (StVZO)",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 20. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "HiK 3.0",
+      "domain": "HiK 3.0",
+      "learningObjective": "lo-q1027",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 27",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1027",
+      "id": "q1027-mc",
+      "type": "multiple-choice",
+      "question": "Welche Katastrophenschutzmodule nennt das HiK-Konzept 3.0? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Führung",
+        "Verpflegungsdienst",
+        "Sanitätsdienst",
+        "Betreuungsdienst",
+        "Sperrung der Gleise",
+        "Kennzahlen 11 und 12 in der hinterlegten Merkkarte",
+        "Rettungsmittelhalteplatz"
+      ],
+      "correctAnswers": [
+        "Führung",
+        "Verpflegungsdienst",
+        "Sanitätsdienst",
+        "Betreuungsdienst"
+      ],
+      "modelAnswer": "Führung; Sanitätsdienst; Betreuungsdienst; Verpflegungsdienst",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 27. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Gefahren",
+      "domain": "Gefahren & Einsatzorganisation",
+      "learningObjective": "lo-q1028",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 28",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1028",
+      "id": "q1028-mc",
+      "type": "multiple-choice",
+      "question": "Wofür steht die Abkürzung GAMS? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Absperren / Absichern",
+        "Gefahr erkennen",
+        "Spezialkräfte alarmieren",
+        "Menschenrettung (wenn möglich)",
+        "Brand",
+        "Ausbreitung",
+        "chemische Stoffe"
+      ],
+      "correctAnswers": [
+        "Absperren / Absichern",
+        "Gefahr erkennen",
+        "Spezialkräfte alarmieren",
+        "Menschenrettung (wenn möglich)"
+      ],
+      "modelAnswer": "Gefahr erkennen; Absperren / Absichern; Menschenrettung (wenn möglich); Spezialkräfte alarmieren",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 28. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1030",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 30",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1030",
+      "id": "q1030-mc",
+      "type": "multiple-choice",
+      "question": "Wie lauten die fünf Grundsätze der taktischen Führung? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Jede Einsatzkraft hat eine Führungskraft",
+        "DRK-Helfer werden von DRK-Führungskräften geführt",
+        "Führung ist unteilbar",
+        "Führung vollzieht sich lückenlos",
+        "personelle Stärke",
+        "materielle Stärke",
+        "Meldungen"
+      ],
+      "correctAnswers": [
+        "Jede Einsatzkraft hat eine Führungskraft",
+        "DRK-Helfer werden von DRK-Führungskräften geführt",
+        "Führung ist unteilbar",
+        "Führung vollzieht sich lückenlos"
+      ],
+      "modelAnswer": "Jede Einsatzkraft hat eine Führungskraft; Der Führungsanspruch besteht ununterbrochen; Führung ist unteilbar; DRK-Helfer werden von DRK-Führungskräften geführt; Führung vollzieht sich lückenlos",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 30. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1031",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 31",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1031",
+      "id": "q1031-mc",
+      "type": "multiple-choice",
+      "question": "Woraus bildet sich der Einsatzwert einer Einheit oder Gruppe? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "materielle Stärke",
+        "Ausbildungsstand",
+        "personelle Stärke",
+        "Der Führungsanspruch besteht ununterbrochen",
+        "Jede Einsatzkraft hat eine Führungskraft",
+        "Führung vollzieht sich lückenlos"
+      ],
+      "correctAnswers": [
+        "materielle Stärke",
+        "Ausbildungsstand",
+        "personelle Stärke"
+      ],
+      "modelAnswer": "personelle Stärke; materielle Stärke; Ausbildungsstand",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 31. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Führungsmittel",
+      "domain": "DV 100 / Befehl & Meldung",
+      "learningObjective": "lo-q1033",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 33",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1033",
+      "id": "q1033-mc",
+      "type": "multiple-choice",
+      "question": "Welche Gruppen von Führungs- und Dokumentationsmitteln kennen Sie? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Informationsverarbeitung",
+        "Informationsgewinnung",
+        "Informationsübertragung",
+        "Verpflegung",
+        "Einsatzkräfte",
+        "S4 Versorgung"
+      ],
+      "correctAnswers": [
+        "Informationsverarbeitung",
+        "Informationsgewinnung",
+        "Informationsübertragung"
+      ],
+      "modelAnswer": "Informationsgewinnung; Informationsverarbeitung; Informationsübertragung",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 33. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Bahnanlagen",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1034",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 34",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1034",
+      "id": "q1034-mc",
+      "type": "multiple-choice",
+      "question": "Was ist beim Betreten von Bahnanlagen (z. B. Gleisen) zu beachten? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Sperrung der Gleise",
+        "Freigabe durch DB-Notfallmanager",
+        "Abschaltung der Oberleitung",
+        "Erdung der Oberleitung",
+        "Technik",
+        "Verpflegung",
+        "Krankentransportwagen 85, gemäß hinterlegter Merkkarte"
+      ],
+      "correctAnswers": [
+        "Sperrung der Gleise",
+        "Freigabe durch DB-Notfallmanager",
+        "Abschaltung der Oberleitung",
+        "Erdung der Oberleitung"
+      ],
+      "modelAnswer": "Sperrung der Gleise; Abschaltung der Oberleitung; Erdung der Oberleitung; Freigabe durch DB-Notfallmanager",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 34. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Führung",
+      "domain": "Führung",
+      "learningObjective": "lo-q1039",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 39",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1039",
+      "id": "q1039-mc",
+      "type": "multiple-choice",
+      "question": "Welche Verbindungswege existieren zwischen Zugführer und zwei untergeordneten Gruppenführern? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Meldungen",
+        "Befehle",
+        "Querverbindungen",
+        "Jede Einsatzkraft hat eine Führungskraft",
+        "DRK-Helfer werden von DRK-Führungskräften geführt",
+        "Der Führungsanspruch besteht ununterbrochen"
+      ],
+      "correctAnswers": [
+        "Meldungen",
+        "Befehle",
+        "Querverbindungen"
+      ],
+      "modelAnswer": "Befehle; Meldungen; Querverbindungen",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 39. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "Einsatznachbesprechung",
+      "domain": "Dokumentation",
+      "learningObjective": "lo-q1044",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 44",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1044",
+      "id": "q1044-mc",
+      "type": "multiple-choice",
+      "question": "Begründen Sie die Notwendigkeit von Einsatznachbesprechungen. – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Einsatzverlauf",
+        "Verarbeitung",
+        "PSNV",
+        "Optimierung",
+        "Ausgang",
+        "Stärke",
+        "Ablösung"
+      ],
+      "correctAnswers": [
+        "Einsatzverlauf",
+        "Verarbeitung",
+        "PSNV",
+        "Optimierung"
+      ],
+      "modelAnswer": "Mindestens 3 von: Einsatzverlauf; Verbesserung; Optimierung; PSNV; Verarbeitung",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 44. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    },
+    {
+      "topic": "KFZ-Marsch",
+      "domain": "KFZ-Marsch & Fahrzeuge",
+      "learningObjective": "lo-q1046",
+      "source": "Forms-Gesamtwiederholung 2025, Frage 46",
+      "sourceStatus": "confirmed-original",
+      "difficulty": 3,
+      "weight": 4,
+      "derivedFrom": "q1046",
+      "id": "q1046-mc",
+      "type": "multiple-choice",
+      "question": "Welche Ausstattung sollte in einem Einsatzfahrzeug während des Kfz-Marschs griffbereit verfügbar sein? – Wähle alle zutreffenden Antworten.",
+      "options": [
+        "Winkerkelle",
+        "Gelbe Flagge",
+        "Warnweste",
+        "Wasser",
+        "Kraftstoff",
+        "Luft"
+      ],
+      "correctAnswers": [
+        "Winkerkelle",
+        "Gelbe Flagge",
+        "Warnweste"
+      ],
+      "modelAnswer": "Gelbe Flagge; Warnweste; Winkerkelle",
+      "explanation": "Mehrfachauswahl abgeleitet aus Frage Original 46. Falsche Optionen stammen aus anderen Katalogfragen.",
+      "tags": [
+        "mehrfachauswahl"
+      ]
+    }
+  ]
+}

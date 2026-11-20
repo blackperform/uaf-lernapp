@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" width="200" height="160" role="img">
+ <rect width="200" height="160" fill="#ffffff"/>
+ <g fill="#000"><circle cx="80" cy="12" r="6"/><circle cx="96" cy="12" r="6"/><circle cx="112" cy="12" r="6"/></g>
+ <g fill="none" stroke="#000" stroke-width="5" stroke-linejoin="miter">
+  <path d="M96 26 L156 88 L96 150 L36 88 Z"/>
+  <path d="M96 26 V150 M36 88 H156"/>
+  <path d="M66 119 L96 88 L126 119"/>
+ </g>
+ <path d="M96 26 L116 47 H76 Z" fill="#000"/>
+ <text x="150" y="152" font-family="Georgia, serif" font-size="22" fill="#000">DRK</text>
+</svg>

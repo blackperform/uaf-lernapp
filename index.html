@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>UaF-Lernapp</title>
+  <meta name="description" content="Offline-Lernapp zur Vorbereitung auf den Lehrgang Unterführer aller Fachdienste (UaF).">
+  <meta name="theme-color" content="#b00020" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="UaF-Lernen">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: blob:; style-src 'self'; script-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
+  <link rel="manifest" href="app.webmanifest">
+  <link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/app.css">
+  <script type="module" src="js/main.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt springen</a>
+  <header class="topbar">
+    <span class="brand"><img src="assets/icons/icon.svg" alt="" width="28" height="28"> UaF-Lernapp</span>
+    <span id="offline-indicator" class="offline-pill" hidden>Offline</span>
+  </header>
+  <div id="banner-region" class="banner-region"></div>
+  <main id="main" tabindex="-1">
+    <p class="loading">Lernapp wird geladen …</p>
+    <noscript><p class="error">Diese App benötigt JavaScript.</p></noscript>
+  </main>
+  <nav class="bottom-nav" aria-label="Hauptnavigation">
+    <ul>
+      <li><a href="#/start" data-nav="start"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M3 11l9-8 9 8v10a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1z"/></svg><span>Start</span></a></li>
+      <li><a href="#/lernen" data-nav="lernen"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 5h11a3 3 0 0 1 3 3v12H7a3 3 0 0 1-3-3z"/><path d="M8 9h6M8 13h6"/></svg><span>Lernen</span></a></li>
+      <li><a href="#/zeichen" data-nav="zeichen"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M12 3l9 16H3z"/></svg><span>Zeichen</span></a></li>
+      <li><a href="#/katalog" data-nav="katalog"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg><span>Katalog</span></a></li>
+      <li><a href="#/mehr" data-nav="mehr"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg><span>Mehr</span></a></li>
+    </ul>
+  </nav>
+  <div id="live" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+  <dialog id="dialog" class="dialog"></dialog>
+</body>
+</html>

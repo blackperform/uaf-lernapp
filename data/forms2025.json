@@ -1,0 +1,1290 @@
+{
+ "_quelle": "Unterführer aller Fachdienste 2025 - Gesamtwiederholung auswertung.pdf (Microsoft-Forms-Auswertung)",
+ "questions": [
+  {
+   "number": 1,
+   "topic": "Führungsorganisation",
+   "question": "Aus welchen Personen setzt sich die „Abschnittsleitung Gesundheit“ zusammen?",
+   "type": "multiple-choice",
+   "options": [
+    "Leitender Notarzt / Leitende Notärztin",
+    "Einsatzleiter / Einsatzleiterin",
+    "Landrat / Landrätin",
+    "Organisatorischer Leiter / Organisatorische Leiterin"
+   ],
+   "correct": [
+    "Leitender Notarzt / Leitende Notärztin",
+    "Organisatorischer Leiter / Organisatorische Leiterin"
+   ],
+   "status": "forms",
+   "model": "Leitender Notarzt / Leitende Notärztin; Organisatorischer Leiter / Organisatorische Leiterin"
+  },
+  {
+   "number": 2,
+   "topic": "KFZ-Marsch",
+   "question": "Welche Marschgeschwindigkeit sollte außerhalb geschlossener Ortschaften gewählt werden?",
+   "type": "single-choice",
+   "options": [
+    "30 - 45 km/h",
+    "60 - 70 km/h",
+    "80 - 90 km/h",
+    "70 - 80 km/h"
+   ],
+   "correct": [
+    "60 - 70 km/h"
+   ],
+   "status": "forms",
+   "model": "60 - 70 km/h"
+  },
+  {
+   "number": 3,
+   "topic": "DV 100",
+   "question": "Wodurch zeichnet sich die Führungsstufe B nach DV 100 aus?",
+   "type": "multiple-choice",
+   "options": [
+    "Führen ohne Führungsmittel",
+    "Taktische Einheiten bis zur Stärke von zwei Gruppen",
+    "Führungseinrichtungen (z. B. Leitstelle)",
+    "Führungstruppe oder -staffel",
+    "Führen mit örtlichen Führungseinheiten",
+    "Zug oder Verband an einer Einsatzstelle"
+   ],
+   "correct": [
+    "Führungstruppe oder -staffel",
+    "Führen mit örtlichen Führungseinheiten",
+    "Zug oder Verband an einer Einsatzstelle"
+   ],
+   "status": "abgeleitet",
+   "note": "Die Auswertung zeigt nur „Falsch“ für „Führen ohne Führungsmittel“. Lösung aus der Führungsstufen-Tabelle der DV 100 abgeleitet – mit Lehrgangsunterlage bestätigen",
+   "model": "Führungstruppe oder -staffel; Führen mit örtlichen Führungseinheiten; Zug oder Verband an einer Einsatzstelle"
+  },
+  {
+   "number": 4,
+   "topic": "RAEP",
+   "question": "Wofür steht die Abkürzung RAEP im rheinland-pfälzischen Katastrophenschutz?",
+   "type": "open",
+   "grading": {
+    "mode": "groups",
+    "required": 1,
+    "groups": [
+     {
+      "label": "Rahmen-, Alarm- und Einsatzplan",
+      "accept": [
+       "Rahmen-, Alarm- und Einsatzplan"
+      ]
+     }
+    ]
+   },
+   "model": "Rahmen-, Alarm- und Einsatzplan",
+   "status": "forms"
+  },
+  {
+   "number": 5,
+   "topic": "DV 100",
+   "question": "Ordnen Sie die Bestandteile des erweiterten Befehlsschemas in der richtigen Reihenfolge an.",
+   "type": "ordering",
+   "correct": [
+    "Lage",
+    "Allgemeine Lage",
+    "Eigene Lage",
+    "Auftrag",
+    "Durchführung",
+    "Versorgung",
+    "Führung und Verbindung"
+   ],
+   "status": "forms",
+   "model": "Lage → Allgemeine Lage → Eigene Lage → Auftrag → Durchführung → Versorgung → Führung und Verbindung"
+  },
+  {
+   "number": 6,
+   "topic": "HiK 3.0",
+   "question": "Welche Stärke hat ein Katastrophenschutzmodul Verpflegungsdienst nach HiK-Konzept 3.0?",
+   "type": "single-choice",
+   "options": [
+    "0/1/8/9",
+    "1/1/4/6",
+    "0/1/5/6",
+    "0/1/11/12"
+   ],
+   "correct": [
+    "0/1/8/9"
+   ],
+   "status": "katalog",
+   "model": "0/1/8/9"
+  },
+  {
+   "number": 7,
+   "topic": "Sichtung",
+   "question": "Welche Sichtungskategorie(n) ist/sind korrekt?",
+   "type": "multiple-choice",
+   "options": [
+    "SK I = Vitale Bedrohung",
+    "EX = Tot",
+    "SK III = Schwer verletzt / Erkrankt",
+    "SK IV = Vitale Bedrohung",
+    "SK II = Schwer verletzt / Erkrankt"
+   ],
+   "correct": [
+    "SK I = Vitale Bedrohung",
+    "EX = Tot",
+    "SK II = Schwer verletzt / Erkrankt"
+   ],
+   "status": "forms",
+   "model": "SK I = Vitale Bedrohung; EX = Tot; SK II = Schwer verletzt / Erkrankt"
+  },
+  {
+   "number": 8,
+   "topic": "Gefahren",
+   "question": "Nennen Sie mindestens fünf Gefahren aus dem 5A-B-C-5E-Schema.",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 5,
+    "groups": [
+     {
+      "label": "Atemgifte",
+      "accept": [
+       "atemgift"
+      ]
+     },
+     {
+      "label": "Angstreaktion/Panik",
+      "accept": [
+       "angst",
+       "panik"
+      ]
+     },
+     {
+      "label": "Ausbreitung",
+      "accept": [
+       "Ausbreitung"
+      ]
+     },
+     {
+      "label": "Atomare Gefahren / Ionisierende Strahlung",
+      "accept": [
+       "atomar",
+       "ionisierende strahlung"
+      ]
+     },
+     {
+      "label": "Absturz",
+      "accept": [
+       "Absturz"
+      ]
+     },
+     {
+      "label": "Brand",
+      "accept": [
+       "Brand"
+      ]
+     },
+     {
+      "label": "Chemische Gefahren",
+      "accept": [
+       "chemisch"
+      ]
+     },
+     {
+      "label": "Explosion",
+      "accept": [
+       "Explosion"
+      ]
+     },
+     {
+      "label": "Erkrankung / Verletzung",
+      "accept": [
+       "erkrankung",
+       "verletzung"
+      ]
+     },
+     {
+      "label": "Elektrizität",
+      "accept": [
+       "elektri"
+      ]
+     },
+     {
+      "label": "Einsturz",
+      "accept": [
+       "Einsturz"
+      ]
+     },
+     {
+      "label": "Ertrinken / Wassergefahren",
+      "accept": [
+       "ertrinken",
+       "wassergefahr"
+      ]
+     }
+    ]
+   },
+   "model": "Mindestens 5 von: Atemgifte; Angstreaktion/Panik; Ausbreitung; Atomare Gefahren / Ionisierende Strahlung; Absturz; Brand; Chemische Gefahren; Explosion; Erkrankung / Verletzung; Elektrizität; Einsturz; Ertrinken / Wassergefahren"
+  },
+  {
+   "number": 9,
+   "topic": "Führung",
+   "question": "Ordnen Sie die folgenden Führungsebenen von „oben“ nach „unten“ an.",
+   "type": "ordering",
+   "correct": [
+    "Einsatzleitung",
+    "Abschnittsleitung",
+    "Zug- und Verbandsführer/-führerinnen",
+    "Trupp- und Gruppenführer/-führerinnen"
+   ],
+   "status": "forms",
+   "model": "Einsatzleitung → Abschnittsleitung → Zug- und Verbandsführer/-führerinnen → Trupp- und Gruppenführer/-führerinnen"
+  },
+  {
+   "number": 10,
+   "topic": "HiK 3.0",
+   "question": "Welche Stärke hat eine SEG Soziale Betreuung nach HiK-Konzept 3.0?",
+   "type": "single-choice",
+   "options": [
+    "0/1/5/6",
+    "0/1/11/12",
+    "0/0/6/6",
+    "1/1/4/6"
+   ],
+   "correct": [
+    "0/1/5/6"
+   ],
+   "status": "katalog",
+   "model": "0/1/5/6"
+  },
+  {
+   "number": 11,
+   "topic": "HiK 3.0",
+   "question": "Welche Leistung kann ein Katastrophenschutzmodul Verpflegungsdienst laut HiK-Konzept 3.0 erbringen?",
+   "type": "single-choice",
+   "options": [
+    "Verpflegung von 300 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+    "Verpflegung von 150 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+    "Verpflegung von 500 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung",
+    "Verpflegung von 250 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung"
+   ],
+   "correct": [
+    "Verpflegung von 300 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung"
+   ],
+   "status": "katalog",
+   "model": "Verpflegung von 300 Personen sofort und weiter täglich mit einer Warmmahlzeit und zwei Mal Kaltverpflegung"
+  },
+  {
+   "number": 12,
+   "topic": "HiK 3.0",
+   "question": "Welche Leistung kann ein Katastrophenschutzmodul Betreuungsdienst laut HiK-Konzept 3.0 erbringen?",
+   "type": "multiple-choice",
+   "options": [
+    "Sammlung und Betreuung von 150 Personen in der Soforthilfephase",
+    "Einrichtung einer Betreuungsstelle für 150 Betroffene",
+    "Sammlung und Betreuung von 300 Personen in der Soforthilfephase",
+    "Einrichtung eines Betreuungsplatzes für 100 Betroffene bei Gestellung von zusätzlichem Material"
+   ],
+   "correct": [
+    "Sammlung und Betreuung von 150 Personen in der Soforthilfephase",
+    "Einrichtung einer Betreuungsstelle für 150 Betroffene",
+    "Einrichtung eines Betreuungsplatzes für 100 Betroffene bei Gestellung von zusätzlichem Material"
+   ],
+   "status": "katalog",
+   "model": "Sammlung und Betreuung von 150 Personen in der Soforthilfephase; Einrichtung einer Betreuungsstelle für 150 Betroffene; Einrichtung eines Betreuungsplatzes für 100 Betroffene bei Gestellung von zusätzlichem Material"
+  },
+  {
+   "number": 13,
+   "topic": "RAEP Gesundheit",
+   "question": "Wie viele Alarmstufen gibt der RAEP Gesundheit vor?",
+   "type": "single-choice",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "correct": [
+    "5"
+   ],
+   "status": "katalog",
+   "model": "5"
+  },
+  {
+   "number": 14,
+   "topic": "DV 100",
+   "question": "Welche drei Bestandteile gehören zum Führungssystem nach DV 100?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "Führungsorganisation",
+      "accept": [
+       "Führungsorganisation"
+      ]
+     },
+     {
+      "label": "Führungsvorgang",
+      "accept": [
+       "Führungsvorgang"
+      ]
+     },
+     {
+      "label": "Führungsmittel",
+      "accept": [
+       "Führungsmittel"
+      ]
+     }
+    ]
+   },
+   "model": "Führungsorganisation; Führungsvorgang; Führungsmittel"
+  },
+  {
+   "number": 15,
+   "topic": "Räume und Stellen",
+   "question": "Nennen Sie mindestens drei Räume außer der Patientenablage.",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "Behandlungsplatz",
+      "accept": [
+       "Behandlungsplatz"
+      ]
+     },
+     {
+      "label": "Bereitstellungsraum",
+      "accept": [
+       "Bereitstellungsraum"
+      ]
+     },
+     {
+      "label": "Rettungsmittelhalteplatz",
+      "accept": [
+       "Rettungsmittelhalteplatz"
+      ]
+     },
+     {
+      "label": "Betreuungsstelle",
+      "accept": [
+       "Betreuungsstelle"
+      ]
+     },
+     {
+      "label": "Anlaufstelle",
+      "accept": [
+       "Anlaufstelle"
+      ]
+     },
+     {
+      "label": "Betreuungsplatz",
+      "accept": [
+       "Betreuungsplatz"
+      ]
+     },
+     {
+      "label": "Unterkunft",
+      "accept": [
+       "Unterkunft"
+      ]
+     }
+    ]
+   },
+   "model": "Mindestens 3 von: Behandlungsplatz; Bereitstellungsraum; Rettungsmittelhalteplatz; Betreuungsstelle; Anlaufstelle; Betreuungsplatz; Unterkunft"
+  },
+  {
+   "number": 16,
+   "topic": "Katastrophenschutz RLP",
+   "question": "Nennen Sie ein besonderes Konzept im rheinland-pfälzischen Katastrophenschutz.",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 1,
+    "groups": [
+     {
+      "label": "Großraum-RTW (G-RTW)",
+      "accept": [
+       "grossraum rtw",
+       "grtw"
+      ]
+     },
+     {
+      "label": "Medikamentendepot",
+      "accept": [
+       "Medikamentendepot"
+      ]
+     },
+     {
+      "label": "Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK)",
+      "accept": [
+       "zentrale einrichtung landesvorhaltung",
+       "zelk"
+      ]
+     },
+     {
+      "label": "Sonderalarm Rettungsdienst",
+      "accept": [
+       "sonderalarm"
+      ]
+     }
+    ]
+   },
+   "model": "Mindestens 1 von: Großraum-RTW (G-RTW); Medikamentendepot; Zentrale Einrichtung Landesvorhaltung Katastrophenschutz (ZELK); Sonderalarm Rettungsdienst"
+  },
+  {
+   "number": 17,
+   "topic": "Kennzeichnung",
+   "question": "Wer trägt eine weiße Kennzeichnungsweste?",
+   "type": "single-choice",
+   "options": [
+    "Untereinsatzabschnittleiter/-in",
+    "Einsatzleiter/-in",
+    "Einsatzabschnittsleiter/-in",
+    "Gruppenführer/-in",
+    "PSNV-Kraft",
+    "Fachberater/-in"
+   ],
+   "correct": [
+    "Einsatzabschnittsleiter/-in"
+   ],
+   "status": "forms",
+   "model": "Einsatzabschnittsleiter/-in"
+  },
+  {
+   "number": 18,
+   "topic": "Führung",
+   "question": "Was beschreibt der Begriff Führungsspanne?",
+   "type": "open",
+   "status": "forms",
+   "model": "Jede Führungskraft ist nur in der Lage, maximal 5 Einheiten zu führen.",
+   "grading": {
+    "mode": "groups",
+    "required": 1,
+    "groups": [
+     {
+      "label": "maximal 5 Einheiten je Führungskraft",
+      "accept": [
+       "5",
+       "fuenf"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "number": 19,
+   "topic": "Taktische Zeit",
+   "question": "Geben Sie folgende Zeitangabe als taktische Zeit in Langform an: Mittwoch, 16.09.2024, 07:58 Uhr",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "exact",
+    "label": "160758sep24",
+    "accept": [
+     "160758sep24"
+    ]
+   },
+   "model": "160758sep24"
+  },
+  {
+   "number": 20,
+   "topic": "Rechtsgrundlagen",
+   "question": "Nennen Sie sechs rechtliche Grundlagen, welche für den Katastrophenschutz in Rheinland-Pfalz relevant sind.",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 6,
+    "groups": [
+     {
+      "label": "DV 100",
+      "accept": [
+       "dv100"
+      ]
+     },
+     {
+      "label": "LBKG (Brand- und Katastrophenschutzgesetz)",
+      "accept": [
+       "lbkg",
+       "brand und katastrophenschutzgesetz"
+      ]
+     },
+     {
+      "label": "K-Vorschrift",
+      "accept": [
+       "kvorschrift"
+      ]
+     },
+     {
+      "label": "RAEP (Rahmen-, Alarm- und Einsatzplan)",
+      "accept": [
+       "raep",
+       "aep",
+       "rahmen alarm und einsatzplan"
+      ]
+     },
+     {
+      "label": "Rettungsdienstgesetz RLP (RettDG)",
+      "accept": [
+       "rettungsdienstgesetz",
+       "rettdg"
+      ]
+     },
+     {
+      "label": "Infektionsschutzgesetz (IfSG)",
+      "accept": [
+       "ifsg",
+       "infektionsschutzgesetz"
+      ]
+     },
+     {
+      "label": "Ordnung der Bereitschaften",
+      "accept": [
+       "ordnung der bereitschaften"
+      ]
+     },
+     {
+      "label": "Disziplinar- und Beschwerdeordnung",
+      "accept": [
+       "disziplinar",
+       "beschwerdeordnung"
+      ]
+     },
+     {
+      "label": "Straßenverkehrsordnung (StVO)",
+      "accept": [
+       "stvo",
+       "strassenverkehrsordnung"
+      ]
+     },
+     {
+      "label": "Straßenverkehrs-Zulassungs-Ordnung (StVZO)",
+      "accept": [
+       "stvzo",
+       "zulassungsordnung"
+      ]
+     }
+    ]
+   },
+   "model": "Mindestens 6 von: DV 100; LBKG (Brand- und Katastrophenschutzgesetz); K-Vorschrift; RAEP (Rahmen-, Alarm- und Einsatzplan); Rettungsdienstgesetz RLP (RettDG); Infektionsschutzgesetz (IfSG); Ordnung der Bereitschaften; Disziplinar- und Beschwerdeordnung; Straßenverkehrsordnung (StVO); Straßenverkehrs-Zulassungs-Ordnung (StVZO)"
+  },
+  {
+   "number": 21,
+   "topic": "Kennzeichnung",
+   "question": "Wie lautet die Helmkennzeichnung für eine/n ernannte/n Gruppenführer/-in einer Hilfsorganisation?",
+   "type": "single-choice",
+   "options": [
+    "2 Streifen, blau",
+    "2 Ringe, blau",
+    "1 Streifen, blau",
+    "1 Ring, blau"
+   ],
+   "correct": [
+    "1 Streifen, blau"
+   ],
+   "status": "katalog",
+   "model": "1 Streifen, blau"
+  },
+  {
+   "number": 22,
+   "topic": "Sicherheit",
+   "question": "Wie kann eine Einsatzkraft Stresssituationen leichter begegnen?",
+   "type": "multiple-choice",
+   "options": [
+    "Alkoholgenuss",
+    "Vermittlung von Techniken, Taktik und Schulungen",
+    "Stärkung durch das soziale Umfeld",
+    "Persönliche Vorbereitung"
+   ],
+   "correct": [
+    "Vermittlung von Techniken, Taktik und Schulungen",
+    "Stärkung durch das soziale Umfeld",
+    "Persönliche Vorbereitung"
+   ],
+   "status": "forms",
+   "model": "Vermittlung von Techniken, Taktik und Schulungen; Stärkung durch das soziale Umfeld; Persönliche Vorbereitung"
+  },
+  {
+   "number": 23,
+   "topic": "Versorgungsweg",
+   "question": "Wie lautet die korrekte Reihenfolge der Bereiche beim Versorgungsweg „Kranker und Verletzter“?",
+   "type": "ordering",
+   "correct": [
+    "Schadensraum",
+    "Behandlungsraum",
+    "Transportraum",
+    "Hospitalisationsraum"
+   ],
+   "status": "forms",
+   "model": "Schadensraum → Behandlungsraum → Transportraum → Hospitalisationsraum"
+  },
+  {
+   "number": 24,
+   "topic": "Befehlsgebung",
+   "question": "Ordnen Sie die folgenden Begriffe in die korrekte zeitliche Abfolge ein.",
+   "type": "ordering",
+   "correct": [
+    "Befehlsausgabe",
+    "Befehlswiederholung",
+    "Befehlsausführung"
+   ],
+   "status": "forms",
+   "model": "Befehlsausgabe → Befehlswiederholung → Befehlsausführung"
+  },
+  {
+   "number": 25,
+   "topic": "HiK 3.0",
+   "question": "Welche Stärke hat eine SEG Unterkunft nach HiK-Konzept 3.0?",
+   "type": "single-choice",
+   "options": [
+    "0/1/11/12",
+    "0/1/5/6",
+    "0/0/6/6",
+    "1/1/4/6"
+   ],
+   "correct": [
+    "0/1/5/6"
+   ],
+   "status": "katalog",
+   "model": "0/1/5/6"
+  },
+  {
+   "number": 26,
+   "topic": "HiK 3.0",
+   "question": "Welche Stärke hat eine SEG Transport nach HiK-Konzept 3.0?",
+   "type": "single-choice",
+   "options": [
+    "0/1/5/6",
+    "1/1/4/6",
+    "1/1/6/8",
+    "0/1/7/8"
+   ],
+   "correct": [
+    "1/1/6/8"
+   ],
+   "status": "katalog",
+   "model": "1/1/6/8"
+  },
+  {
+   "number": 27,
+   "topic": "HiK 3.0",
+   "question": "Welche Katastrophenschutzmodule nennt das HiK-Konzept 3.0?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 4,
+    "groups": [
+     {
+      "label": "Führung",
+      "accept": [
+       "Führung"
+      ]
+     },
+     {
+      "label": "Sanitätsdienst",
+      "accept": [
+       "Sanitätsdienst"
+      ]
+     },
+     {
+      "label": "Betreuungsdienst",
+      "accept": [
+       "Betreuungsdienst"
+      ]
+     },
+     {
+      "label": "Verpflegungsdienst",
+      "accept": [
+       "Verpflegungsdienst"
+      ]
+     }
+    ]
+   },
+   "model": "Führung; Sanitätsdienst; Betreuungsdienst; Verpflegungsdienst"
+  },
+  {
+   "number": 28,
+   "topic": "Gefahren",
+   "question": "Wofür steht die Abkürzung GAMS?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 4,
+    "groups": [
+     {
+      "label": "Gefahr erkennen",
+      "accept": [
+       "gefahr"
+      ]
+     },
+     {
+      "label": "Absperren / Absichern",
+      "accept": [
+       "absperr",
+       "absicher"
+      ]
+     },
+     {
+      "label": "Menschenrettung (wenn möglich)",
+      "accept": [
+       "menschenrettung"
+      ]
+     },
+     {
+      "label": "Spezialkräfte alarmieren",
+      "accept": [
+       "spezialkraefte"
+      ]
+     }
+    ]
+   },
+   "model": "Gefahr erkennen; Absperren / Absichern; Menschenrettung (wenn möglich); Spezialkräfte alarmieren"
+  },
+  {
+   "number": 29,
+   "topic": "Taktische Zeit",
+   "question": "Geben Sie folgende Zeitangabe als taktische Zeit in Langform an: Mittwoch, 03.03.2021, 17:13 Uhr",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "exact",
+    "label": "031713mar21",
+    "accept": [
+     "031713mar21"
+    ]
+   },
+   "model": "031713mar21"
+  },
+  {
+   "number": 30,
+   "topic": "Führung",
+   "question": "Wie lauten die fünf Grundsätze der taktischen Führung?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 5,
+    "groups": [
+     {
+      "label": "Jede Einsatzkraft hat eine Führungskraft",
+      "accept": [
+       "jede einsatzkraft",
+       "eine fuehrungskraft"
+      ]
+     },
+     {
+      "label": "Der Führungsanspruch besteht ununterbrochen",
+      "accept": [
+       "ununterbrochen"
+      ]
+     },
+     {
+      "label": "Führung ist unteilbar",
+      "accept": [
+       "unteilbar"
+      ]
+     },
+     {
+      "label": "DRK-Helfer werden von DRK-Führungskräften geführt",
+      "accept": [
+       "drk helfer",
+       "drk fuehrungskr"
+      ]
+     },
+     {
+      "label": "Führung vollzieht sich lückenlos",
+      "accept": [
+       "lueckenlos"
+      ]
+     }
+    ]
+   },
+   "model": "Jede Einsatzkraft hat eine Führungskraft; Der Führungsanspruch besteht ununterbrochen; Führung ist unteilbar; DRK-Helfer werden von DRK-Führungskräften geführt; Führung vollzieht sich lückenlos"
+  },
+  {
+   "number": 31,
+   "topic": "Führung",
+   "question": "Woraus bildet sich der Einsatzwert einer Einheit oder Gruppe?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "personelle Stärke",
+      "accept": [
+       "personell"
+      ]
+     },
+     {
+      "label": "materielle Stärke",
+      "accept": [
+       "materiell"
+      ]
+     },
+     {
+      "label": "Ausbildungsstand",
+      "accept": [
+       "ausbildung"
+      ]
+     }
+    ]
+   },
+   "model": "personelle Stärke; materielle Stärke; Ausbildungsstand"
+  },
+  {
+   "number": 32,
+   "topic": "Führung",
+   "question": "Welche Aussagen treffen zu?",
+   "type": "multiple-choice",
+   "options": [
+    "Führung ist die Einflussnahme auf Entscheidungen und Verhalten anderer Menschen",
+    "Leitung dient dem Zweck, aufgabenbezogene Ziele zu verwirklichen",
+    "Führung ist das gesamtverantwortliche Handeln für eine Einsatzstelle und die dort eingesetzten Kräfte"
+   ],
+   "correct": [
+    "Führung ist die Einflussnahme auf Entscheidungen und Verhalten anderer Menschen"
+   ],
+   "status": "abgeleitet",
+   "note": "Die Auswertung zeigt nur „Falsch“ für die dritte Aussage. Lösung laut Fragenkatalog; ob auch die zweite Aussage zutrifft, ist nicht belegt",
+   "model": "Führung ist die Einflussnahme auf Entscheidungen und Verhalten anderer Menschen"
+  },
+  {
+   "number": 33,
+   "topic": "Führungsmittel",
+   "question": "Welche Gruppen von Führungs- und Dokumentationsmitteln kennen Sie?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "Informationsgewinnung",
+      "accept": [
+       "gewinnung"
+      ]
+     },
+     {
+      "label": "Informationsverarbeitung",
+      "accept": [
+       "verarbeitung"
+      ]
+     },
+     {
+      "label": "Informationsübertragung",
+      "accept": [
+       "uebertragung"
+      ]
+     }
+    ]
+   },
+   "model": "Informationsgewinnung; Informationsverarbeitung; Informationsübertragung"
+  },
+  {
+   "number": 34,
+   "topic": "Bahnanlagen",
+   "question": "Was ist beim Betreten von Bahnanlagen (z. B. Gleisen) zu beachten?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 4,
+    "groups": [
+     {
+      "label": "Sperrung der Gleise",
+      "accept": [
+       "sperr"
+      ]
+     },
+     {
+      "label": "Abschaltung der Oberleitung",
+      "accept": [
+       "abschalt"
+      ]
+     },
+     {
+      "label": "Erdung der Oberleitung",
+      "accept": [
+       "erdung",
+       "erden"
+      ]
+     },
+     {
+      "label": "Freigabe durch DB-Notfallmanager",
+      "accept": [
+       "notfallmanager",
+       "freigabe"
+      ]
+     }
+    ]
+   },
+   "model": "Sperrung der Gleise; Abschaltung der Oberleitung; Erdung der Oberleitung; Freigabe durch DB-Notfallmanager"
+  },
+  {
+   "number": 35,
+   "topic": "DV 100",
+   "question": "Ordnen Sie die Bestandteile des Führungskreislaufs den Ziffern 1–6 im Schaubild zu (Element 1 oben).",
+   "type": "ordering",
+   "correct": [
+    "Lage/Auftrag",
+    "Lagefeststellung: Erkundung/Kontrolle",
+    "Planung",
+    "Befehlsgebung",
+    "Beurteilung",
+    "Entschluss"
+   ],
+   "status": "forms",
+   "imagePath": "assets/forms/fuehrungskreislauf.svg",
+   "note": "Schaubild nachgezeichnet nach der Forms-Auswertung (Ziffernpositionen)",
+   "model": "Lage/Auftrag → Lagefeststellung: Erkundung/Kontrolle → Planung → Befehlsgebung → Beurteilung → Entschluss"
+  },
+  {
+   "number": 36,
+   "topic": "Taktische Zeichen",
+   "question": "Wofür steht das folgende taktische Zeichen?",
+   "type": "image",
+   "options": [
+    "Zugführer einer Einsatzeinheit des Deutschen Roten Kreuzes",
+    "Gruppenführer einer Schnell-Einsatz-Gruppe des Deutschen Roten Kreuzes",
+    "Gruppenführer einer Betreuungsgruppe des Deutschen Roten Kreuzes",
+    "Beauftragter für den Katastrophenschutz"
+   ],
+   "correct": [
+    "Zugführer einer Einsatzeinheit des Deutschen Roten Kreuzes"
+   ],
+   "status": "forms",
+   "imagePath": "assets/forms/zeichen-zugfuehrer-ee-drk.svg",
+   "note": "Zeichen nachgezeichnet nach der Abbildung in der Forms-Auswertung",
+   "model": "Zugführer einer Einsatzeinheit des Deutschen Roten Kreuzes"
+  },
+  {
+   "number": 37,
+   "topic": "Befehlsgebung",
+   "question": "Woraus besteht mindestens ein Befehl?",
+   "type": "multiple-choice",
+   "options": [
+    "Mittel",
+    "Auftrag",
+    "Einheit",
+    "Ziel",
+    "Weg"
+   ],
+   "correct": [],
+   "status": "offen",
+   "note": "Die Auswertung wertet „Auftrag + Einheit + Ziel“ als FALSCH – die Musterlösung im Markdown-Katalog ist damit widerlegt. Richtige Lösung beim Lehrgang erfragen und in scripts/forms-src.py eintragen",
+   "model": "Lösung offen – siehe Hinweis"
+  },
+  {
+   "number": 38,
+   "topic": "KFZ-Marsch",
+   "question": "Welche farbigen Flaggen kommen bei einem Kfz-Marsch zum Einsatz und wie ist ihre Bedeutung?",
+   "type": "multiple-choice",
+   "options": [
+    "Grün = Letztes Fahrzeug (Schließender)",
+    "Blau = Erstes bis vorletztes Fahrzeug",
+    "Gelb = Liegengebliebenes Fahrzeug"
+   ],
+   "correct": [],
+   "status": "offen",
+   "note": "Alle drei Optionen gewählt wurde als FALSCH gewertet – mindestens eine Aussage trifft nicht zu. Richtige Lösung beim Lehrgang erfragen",
+   "model": "Lösung offen – siehe Hinweis"
+  },
+  {
+   "number": 39,
+   "topic": "Führung",
+   "question": "Welche Verbindungswege existieren zwischen Zugführer und zwei untergeordneten Gruppenführern?",
+   "type": "open",
+   "status": "forms",
+   "imagePath": "assets/forms/verbindungswege.svg",
+   "note": "Schaubild nachgezeichnet nach der Forms-Auswertung",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "Befehle",
+      "accept": [
+       "befehl"
+      ]
+     },
+     {
+      "label": "Meldungen",
+      "accept": [
+       "meldung"
+      ]
+     },
+     {
+      "label": "Querverbindungen",
+      "accept": [
+       "querverbindung"
+      ]
+     }
+    ]
+   },
+   "model": "Befehle; Meldungen; Querverbindungen"
+  },
+  {
+   "number": 40,
+   "topic": "Taktische Zeichen",
+   "question": "Welche Grundfarbe steht für die Führung im taktischen Zeichen?",
+   "type": "single-choice",
+   "options": [
+    "Gelb",
+    "Weiß",
+    "Braun",
+    "Orange",
+    "Blau"
+   ],
+   "correct": [
+    "Gelb"
+   ],
+   "status": "katalog",
+   "model": "Gelb"
+  },
+  {
+   "number": 41,
+   "topic": "HiK 3.0",
+   "question": "Welche Stärke hat eine SEG Behandlung nach HiK-Konzept 3.0?",
+   "type": "single-choice",
+   "options": [
+    "0/1/11/12",
+    "1/1/10/12",
+    "1/1/4/6",
+    "0/1/5/6"
+   ],
+   "correct": [
+    "0/1/11/12"
+   ],
+   "status": "katalog",
+   "model": "0/1/11/12"
+  },
+  {
+   "number": 42,
+   "topic": "HiK 3.0",
+   "question": "Welche Stärke hat ein Katastrophenschutzmodul Führung nach HiK-Konzept 3.0?",
+   "type": "single-choice",
+   "options": [
+    "0/1/5/6",
+    "1/1/2/4",
+    "0/1/8/9",
+    "1/1/4/6"
+   ],
+   "correct": [
+    "1/1/2/4"
+   ],
+   "status": "forms",
+   "model": "1/1/2/4"
+  },
+  {
+   "number": 43,
+   "topic": "Dienststellungsabzeichen",
+   "question": "Welches ist das Dienststellungsabzeichen für einen berufenen Zugtruppführer?",
+   "type": "image",
+   "correct": [],
+   "status": "offen",
+   "note": "Antwortoptionen sind Fotos (in der Auswertung abgeschnitten). Der Katalog nennt „Option 4, vier blaue Sterne“ – im Ausschnitt ist bei Option 4 nur ein Stern sichtbar. Bilder einfügen und Lösung bestätigen",
+   "model": "Lösung offen – siehe Hinweis"
+  },
+  {
+   "number": 44,
+   "topic": "Einsatznachbesprechung",
+   "question": "Begründen Sie die Notwendigkeit von Einsatznachbesprechungen.",
+   "type": "open",
+   "status": "forms",
+   "note": "Die Forms-Frage nennt keine Mindestanzahl; die App verlangt 3 der 5 Begriffe",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "Einsatzverlauf",
+      "accept": [
+       "Einsatzverlauf"
+      ]
+     },
+     {
+      "label": "Verbesserung",
+      "accept": [
+       "verbesser"
+      ]
+     },
+     {
+      "label": "Optimierung",
+      "accept": [
+       "optimier"
+      ]
+     },
+     {
+      "label": "PSNV",
+      "accept": [
+       "PSNV"
+      ]
+     },
+     {
+      "label": "Verarbeitung",
+      "accept": [
+       "verarbeit"
+      ]
+     }
+    ]
+   },
+   "model": "Mindestens 3 von: Einsatzverlauf; Verbesserung; Optimierung; PSNV; Verarbeitung"
+  },
+  {
+   "number": 45,
+   "topic": "HiK 3.0",
+   "question": "Welche Fahrzeuge gehören laut HiK-Konzept 3.0 zur SEG Behandlung? (Beachte Antwortmöglichkeiten zu EGF/MTF)",
+   "type": "multiple-choice",
+   "options": [
+    "1x EGF/MTF",
+    "RTW",
+    "GW-Sanität",
+    "2x EGF/MTF",
+    "KdoW"
+   ],
+   "correct": [
+    "GW-Sanität",
+    "2x EGF/MTF"
+   ],
+   "status": "katalog",
+   "model": "GW-Sanität; 2x EGF/MTF"
+  },
+  {
+   "number": 46,
+   "topic": "KFZ-Marsch",
+   "question": "Welche Ausstattung sollte in einem Einsatzfahrzeug während des Kfz-Marschs griffbereit verfügbar sein?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 3,
+    "groups": [
+     {
+      "label": "Gelbe Flagge",
+      "accept": [
+       "gelbe flagge"
+      ]
+     },
+     {
+      "label": "Warnweste",
+      "accept": [
+       "Warnweste"
+      ]
+     },
+     {
+      "label": "Winkerkelle",
+      "accept": [
+       "kelle"
+      ]
+     }
+    ]
+   },
+   "model": "Gelbe Flagge; Warnweste; Winkerkelle"
+  },
+  {
+   "number": 47,
+   "topic": "Taktische Zeichen",
+   "question": "Wofür steht das folgende Grundzeichen?",
+   "type": "image",
+   "options": [
+    "Gebiet",
+    "Maßnahme",
+    "Person",
+    "Stelle",
+    "Gefahr"
+   ],
+   "correct": [
+    "Maßnahme"
+   ],
+   "status": "katalog",
+   "imagePath": "assets/signs/massnahme.svg",
+   "model": "Maßnahme"
+  },
+  {
+   "number": 48,
+   "topic": "Sicherheit",
+   "question": "Welches ist die Unfallursache Nr. 1 im Einsatz?",
+   "type": "single-choice",
+   "options": [
+    "Defekte an Material und Gerät",
+    "Menschliches Fehlverhalten",
+    "Äußere Einflüsse"
+   ],
+   "correct": [
+    "Menschliches Fehlverhalten"
+   ],
+   "status": "forms",
+   "model": "Menschliches Fehlverhalten"
+  },
+  {
+   "number": 49,
+   "topic": "KFZ-Marsch",
+   "question": "Wofür steht die Abkürzung WOLKE zur Überprüfung eines Einsatzfahrzeugs im Vorfeld eines Einsatzes / Kfz-Marsches?",
+   "type": "open",
+   "status": "forms",
+   "grading": {
+    "mode": "groups",
+    "required": 5,
+    "groups": [
+     {
+      "label": "Wasser",
+      "accept": [
+       "Wasser"
+      ]
+     },
+     {
+      "label": "Öl",
+      "accept": [
+       "oel"
+      ]
+     },
+     {
+      "label": "Luft",
+      "accept": [
+       "Luft"
+      ]
+     },
+     {
+      "label": "Kraftstoff",
+      "accept": [
+       "Kraftstoff"
+      ]
+     },
+     {
+      "label": "Elektrizität / Elektrik",
+      "accept": [
+       "elektri"
+      ]
+     }
+    ]
+   },
+   "model": "Wasser; Öl; Luft; Kraftstoff; Elektrizität / Elektrik"
+  },
+  {
+   "number": 50,
+   "topic": "RAEP Gesundheit",
+   "question": "Ab welcher Alarmstufe muss ein Vollalarm aller SEG-Einheiten einer kommunalen Gebietskörperschaft erfolgen?",
+   "type": "single-choice",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correct": [
+    "4"
+   ],
+   "status": "katalog",
+   "model": "4"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "_hinweis": "Aus Katalogfragen 24–28 extrahiert (hinterlegte Merkkarte). Kennzahlen und Funkrufnamen sind regional – vor dem Lehrgang prüfen.",
+  "vehicles": [
+    { "abbr": "KdoW",      "name": "Kommandowagen",                       "code": "10", "ref": "q24" },
+    { "abbr": "ELW 1",     "name": "Einsatzleitwagen 1",                  "code": "11", "ref": "q25" },
+    { "abbr": "ELW 2",     "name": "Einsatzleitwagen 2",                  "code": "12", "ref": "q25" },
+    { "abbr": "MTW",       "name": "Mannschaftstransportwagen",           "code": "18", "ref": "q26" },
+    { "abbr": "GW-San",    "name": "Gerätewagen Sanitätsdienst",          "code": "61", "ref": "q27" },
+    { "abbr": "GW-Beh",    "name": "Gerätewagen Behandlung",              "code": "62", "ref": "q27" },
+    { "abbr": "GW-Betr",   "name": "Gerätewagen Betreuung",               "code": "63", "ref": "q27" },
+    { "abbr": "GW-Verpfl", "name": "Gerätewagen Verpflegung",             "code": "64", "ref": "q27" },
+    { "abbr": "GW-TeSi",   "name": "Gerätewagen Technik und Sicherheit",  "code": "65", "ref": "q27" },
+    { "abbr": "NAW",       "name": "Notarztwagen",                        "code": "81", "ref": "q28" },
+    { "abbr": "NEF",       "name": "Notarzteinsatzfahrzeug",              "code": "82", "ref": "q28" },
+    { "abbr": "RTW",       "name": "Rettungswagen",                       "code": "83", "ref": "q28" },
+    { "abbr": "KTW B",     "name": "Krankentransportwagen Typ B",         "code": "84", "ref": "q28" },
+    { "abbr": "KTW",       "name": "Krankentransportwagen",               "code": "85", "ref": "q28" }
+  ],
+  "unitVehicles": [
+    { "unit": "SEG Behandlung", "basis": "HiK-Konzept 3.0", "vehicles": "GW-Sanität + 2× EGF/MTF", "ref": "q1045" }
+  ]
+}

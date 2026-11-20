@@ -1,0 +1,10 @@
+{
+  "_hinweis": "Grundzeichen nach DV 102. „verified: true“ nur, wenn die Form durch eine Lehrgangsunterlage belegt ist (Forms-Auswertung). Eigene/offizielle Grafiken unter gleichem Dateinamen in assets/signs/ ersetzen und dann verified auf true setzen.",
+  "signs": [
+    { "id": "taktische-formation", "name": "Taktische Formation (Einheit)", "imagePath": "assets/signs/taktische-formation.svg", "ref": "q51", "verified": false, "source": "Grundform Rechteck nach DV 102", "hint": "Rechteck = Einheit/taktische Formation." },
+    { "id": "befehlsstelle", "name": "Befehlsstelle / Führungsstelle", "imagePath": "assets/signs/befehlsstelle.svg", "ref": "q51", "verified": false, "source": "Grundform Fahne nach DV 102", "hint": "Fahne (Rechteck am Stab) = Befehls-/Führungsstelle." },
+    { "id": "stelle-einrichtung", "name": "Stelle, Einrichtung", "imagePath": "assets/signs/stelle-einrichtung.svg", "ref": "q51", "verified": false, "source": "Grundform Kreis nach DV 102", "hint": "Kreis = Stelle/Einrichtung (z. B. Behandlungsplatz, Meldekopf)." },
+    { "id": "person", "name": "Person", "imagePath": "assets/signs/person.svg", "ref": "q1036", "verified": false, "source": "Grundform Raute nach DV 102 (vgl. Führungskraft-Zeichen in Originalfrage 36)", "hint": "Auf der Spitze stehendes Quadrat = Person; mit Größenordnung darüber = Führungskraft." },
+    { "id": "massnahme", "name": "Maßnahme", "imagePath": "assets/signs/massnahme.svg", "ref": "q1047", "verified": true, "source": "Forms-Gesamtwiederholung 2025, Frage 47 (Abbildung)", "hint": "Dreieck mit Spitze oben = Maßnahme." }
+  ]
+}
